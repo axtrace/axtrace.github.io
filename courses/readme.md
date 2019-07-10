@@ -12,8 +12,6 @@
 3. Политические процессы в современной России - [ссылка на курс](https://stepik.org/course/132)
 4. Анализ безопасности веб-проектов - [ссылка на курс](https://stepik.org/course/127)
 
-## 2016
-
 ## 1987-2016
 1. Введение в системное проектирование - [ссылка на курс](https://www.coursera.org/learn/systems-engineering)
 2. Introduction to Neuroeconomics: how the brain makes decisions
