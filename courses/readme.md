@@ -1,4 +1,5 @@
-# Курсы
+# Курсы, которые я прошел
+
 
 ## 2019
 1. [Теория игр. ВШЭ](https://github.com/axtrace/knowledge_base/blob/master/courses/GameTheoryHSE) - [ссылка на курс](https://www.coursera.org/learn/game-theory)
