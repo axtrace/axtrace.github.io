@@ -6,3 +6,4 @@
 
 1. [Список прочитанных книг](https://github.com/axtrace/knowledge_base/tree/master/books)
 2. [Пройденные курсы]()
+3. [Случайные размышления]()
