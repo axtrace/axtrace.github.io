@@ -4,14 +4,13 @@
 1. [Теория игр. ВШЭ](https://github.com/axtrace/knowledge_base/blob/master/courses/GameTheoryHSE) - [ссылка на курс](https://www.coursera.org/learn/game-theory)
 
 ## 2018
-1. 
+1. Automate the Boring Stuff with Python Programming - [ссылка на курс](https://www.udemy.com/automate/)
 
 ## 2017
 1. Основы программирования на Python - [ссылка на курс](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
 2. Постановка задачи на разработку ПО - [ссылка на курс](https://stepik.org/course/1128/)
 3. Политические процессы в современной России - [ссылка на курс](https://stepik.org/course/132)
 4. Анализ безопасности веб-проектов - [ссылка на курс](https://stepik.org/course/127)
-5. Automate the Boring Stuff with Python Programming - [ссылка на курс](https://www.udemy.com/automate/)
 
 ## 2016
 
