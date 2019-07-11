@@ -2,8 +2,8 @@
 
 
 ## 2019
-1. [Ненасильственное общение. Маршал Розенберг](https://github.com/axtrace/knowledge_base/blob/master/books/NNC.md)
-2. [Гарри Поттер и методы рационального мышления. Элиезер Юдковский](https://github.com/axtrace/knowledge_base/blob/master/books/hpmor.md)
+1. [Ненасильственное общение. Маршал Розенберг](NNC.md)
+2. [Гарри Поттер и методы рационального мышления. Элиезер Юдковский](hpmor.md)
 3. [Князь мира сего. Климов](KnyazMiraSego.md)
 
 ## 2018
