@@ -1,5 +1,7 @@
 # Вино из Парфенона (18+)
 
+![](img/Parfenon.png)
+
 Список вин из видео-блога Леонида Парфенова ["Парфенон"](https://www.youtube.com/channel/UCbhMGG0ZievPtK8mzLH5jhQ). Названия кликабельны. Номера соответствуют выпускам.
 
 1. [Bourgogne Pinot Noir La Vignee](https://simplewine.ru/catalog/product/bouchard_pere_fils_bourgogne_pinot_noir_la_vignee_2015_075/) + ссылка на [vivino](https://www.vivino.com/wineries/bouchard-pere-and-fils/wines/bouchard-pere-and-fils-la-vignee-bourgogne-pinot-noir-2015)
