@@ -41,7 +41,7 @@
 11. Arinzano Grand Vino, Наварра, 2010 + ссылка на [vivino](https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2010)
 12. [Askaneli Brothers Rkatsiteli Qvevri](https://l-wine.ru/collection/item/askaneli-brothers-rkatsiteli-qvevri--2516/) + ссылка на [vivino](https://www.vivino.com/wineries/ge-askaneli-brothers/wines/ge-askaneli-brothers-rkatsiteli-qvevri-uv)
 13. [Chateau Cadet Bon Grand Cru](https://www.eurowine.ru/wine/6592/chateau-cadet-bon-grand-cru/#) + ссылка на [vivino](https://www.vivino.com/wineries/cadet-bon/wines/cadet-bon-saint-emilion-grand-cru-classe-uv)
-14.
+14. 
     1. Fanagoria Cru Lermont Pinot Noir, 2016 + ссылка на [vivino](https://www.vivino.com/wineries/fanagoria/wines/cru-lermont-pinot-noir-2016)
     2. Villa Romanov Meotida Pinot Noir, Тамань, Голубицкая стрелка, 2016 + ссылка на [vivino](https://www.vivino.com/wineries/villa-romanov/wines/villa-romanov-meotida-pinot-noir-uv)
 
