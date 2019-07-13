@@ -30,25 +30,25 @@
 8. [Chateau Gassier Rose 946](https://www.eurowine.ru/wine/6527/chateau-gassier-rose-946/) + ссылка на [vivino](https://www.vivino.com/wineries/gassier/wines/gassier-chateau-gassier-946-sainte-victoire-selection-parcellaire-rose-uv?ref=navigation-search)
 9. [Chablis Grand Cru Les Blanchots](https://www.eurowine.ru/wine/4516/chablis-grand-cru-les-blanchots/) + ссылка на [vivino](https://www.vivino.com/wineries/domaine-laroche/wines/domaine-laroche-chablis-grand-cru-les-blanchots-uv)
 
-**Спецвыпуск "Русские евреи 1"**: Villa sandi il fresco&nbsp;(ссылка не из выпуска на [vivino](https://www.vivino.com/wineries/villa-sandi/wines/villa-sandi-prosecco-il-fresco-nv))
+    **Спецвыпуск "Русские евреи 1"**: Villa sandi il fresco&nbsp;(ссылка не из выпуска на [vivino](https://www.vivino.com/wineries/villa-sandi/wines/villa-sandi-prosecco-il-fresco-nv))
 
 {:start = "10"}
 10. Domaine Paul Pillot Bourgogne Pinot Noir, Бургундия, 2014 (ссылка не из выпуска на [vivino](https://www.vivino.com/wineries/azienda-agricola-gini-sandro-e-claudio/wines/azienda-agricola-gini-sandro-e-claudio-pinot-noir-bourgogne-2014))
 
-**Спецвыпуск "Русские евреи 2"**: [Vitovska](https://simplewine.ru/catalog/product/vodopivec_vitovska_2012_075) + ссылка на [vivino](https://www.vivino.com/wineries/vodopivec/wines/vodopivec-vitovska-2012)
+    **Спецвыпуск "Русские евреи 2"**: [Vitovska](https://simplewine.ru/catalog/product/vodopivec_vitovska_2012_075) + ссылка на [vivino](https://www.vivino.com/wineries/vodopivec/wines/vodopivec-vitovska-2012)
 
-**Спецвыпуск "Русские евреи 3"**: Gravner Anfora Ribolla Gialla Venezia Giulia IGT + ссылка на [vivino](https://www.vivino.com/wineries/gravner/wines/gravner-anfora-ribolla-gialla-2001)
+    **Спецвыпуск "Русские евреи 3"**: Gravner Anfora Ribolla Gialla Venezia Giulia IGT + ссылка на [vivino](https://www.vivino.com/wineries/gravner/wines/gravner-anfora-ribolla-gialla-2001)
 
 11. Arinzano Grand Vino, Наварра, 2010 + ссылка на [vivino](https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2010)
 12. [Askaneli Brothers Rkatsiteli Qvevri](https://l-wine.ru/collection/item/askaneli-brothers-rkatsiteli-qvevri--2516/) + ссылка на [vivino](https://www.vivino.com/wineries/ge-askaneli-brothers/wines/ge-askaneli-brothers-rkatsiteli-qvevri-uv)
 13. [Chateau Cadet Bon Grand Cru](https://www.eurowine.ru/wine/6592/chateau-cadet-bon-grand-cru/#) + ссылка на [vivino](https://www.vivino.com/wineries/cadet-bon/wines/cadet-bon-saint-emilion-grand-cru-classe-uv)
-14. 
+14.
     1. Fanagoria Cru Lermont Pinot Noir, 2016 + ссылка на [vivino](https://www.vivino.com/wineries/fanagoria/wines/cru-lermont-pinot-noir-2016)
     2. Villa Romanov Meotida Pinot Noir, Тамань, Голубицкая стрелка, 2016 + ссылка на [vivino](https://www.vivino.com/wineries/villa-romanov/wines/villa-romanov-meotida-pinot-noir-uv)
 
-**Спецвыпуск "Цвет нации"**:  Saint-Joseph Rouge Lieu-dit, хозяйство E.Guigal, долина Роны, Франция, 2015 + ссылка на [vivino](http://www.vivino.com/wines/23127851)
+    **Спецвыпуск "Цвет нации"**:  Saint-Joseph Rouge Lieu-dit, хозяйство E.Guigal, долина Роны, Франция, 2015 + ссылка на [vivino](http://www.vivino.com/wines/23127851)
 
-**Первый прямой эфир**: Оранжевое вино [Chitinashvili](https://www.vivino.com/search/wines?q=Chitiashvili)
+    **Первый прямой эфир**: Оранжевое вино [Chitinashvili](https://www.vivino.com/search/wines?q=Chitiashvili)
 
 15. Arínzano Gran Vino Blanco, Испания 2014 + ссылка на [vivino](https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2014)
 16. Finca Altamira, провинция Мендоса, Аргентина, 2014, виноград мальбек 100% + ссылка на [vivino](https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2014)
@@ -56,7 +56,7 @@
 18. DO-RE-MI, mtsvane, 2016 и DO-RE-MI, rkatsiteli, 2016 (ссылок не нашел)
 19. Barbaresco Bricco Asili Bernardot DOCG, 2008 + ссылка на [vivino](https://www.vivino.com/ceretto-aziende-vitivinicole-srl-bricco-asili-barbaresco-bernadot/w/7138)
 
-**Второй прямой эфир**: Португальское красное вино [Quinta de Saes](https://www.vivino.com/alvaro-castro-quinta-de-saes-reserva-estagio-prolongado/w/1161703)
+    **Второй прямой эфир**: Португальское красное вино [Quinta de Saes](https://www.vivino.com/alvaro-castro-quinta-de-saes-reserva-estagio-prolongado/w/1161703)
 
 20. Brunello di Montalcino Castelgiocondo, 2013 + ссылка на [vivino](https://www.vivino.com/it-castelgiocondo-brunello-di-montalcino/w/1098912)
 21. Domaine des Varoilles Gevrey-Chambertin Clos du Meix Ouches Monopole, 2013 + ссылка на [vivino](https://www.vivino.com/domaine-des-varoilles-gevrey-chambertin-clos-du-meix-des-ouches/w/1164442?year=2013)
@@ -68,7 +68,7 @@
 27. Achaval Ferrer Finca Altamira, 2014 + ссылка на [vivino](https://www.vivino.com/achaval-ferrer-finca-altamira-malbec/w/1176258)
 28. Mauro Molino, Barolo, 2014 + ссылка на [vivino](https://www.vivino.com/mauro-molino-barolo/w/100372?year=2014)
 
-29. 
+29.
     1. Tenuta delle Terre Nere, Etna Rosso DOC, 2015 + ссылка на [vivino](https://www.vivino.com/tenuta-delle-terre-nere-etna-rosso/w/1225467)
     2. Benanti, Etna Rosso DOC, 2015 + ссылка на [vivino](https://www.vivino.com/benanti-etna-rosso/w/1758784)
     3. Graci Etna Rosso, 2016 + ссылка на [vivino](https://www.vivino.com/graci-etna-rosso/w/75659)
@@ -88,4 +88,4 @@
 34. Izadi Larrosa DOCa Rioja Bodegas Izadi, 2017 + ссылка на [vivino](https://www.vivino.com/izadi-rioja-larrosa/w/2211676)
 35. Emilio Moro Malleolus, 2015 + ссылка на [vivino](https://www.vivino.com/emilio-moro-malleolus/w/11604?year=2015)
 
-**Третий прямой эфир**: Грузинское оранжевое вино  [Iago's Wine Chinuri](https://www.vivino.com/iagos-iago-chinuri-unknown-v-0sr8p/w/5714269)
+    **Третий прямой эфир**: Грузинское оранжевое вино  [Iago's Wine Chinuri](https://www.vivino.com/iagos-iago-chinuri-unknown-v-0sr8p/w/5714269)
