@@ -32,6 +32,7 @@
 
 **Спецвыпуск "Русские евреи 1"**: Villa sandi il fresco&nbsp;(ссылка не из выпуска на [vivino](https://www.vivino.com/wineries/villa-sandi/wines/villa-sandi-prosecco-il-fresco-nv))
 
+{:start = "10"}
 10. Domaine Paul Pillot Bourgogne Pinot Noir, Бургундия, 2014 (ссылка не из выпуска на [vivino](https://www.vivino.com/wineries/azienda-agricola-gini-sandro-e-claudio/wines/azienda-agricola-gini-sandro-e-claudio-pinot-noir-bourgogne-2014))
 
 **Спецвыпуск "Русские евреи 2"**: [Vitovska](https://simplewine.ru/catalog/product/vodopivec_vitovska_2012_075) + ссылка на [vivino](https://www.vivino.com/wineries/vodopivec/wines/vodopivec-vitovska-2012)
