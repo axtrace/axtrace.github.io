@@ -32,7 +32,6 @@
 
     **Спецвыпуск "Русские евреи 1"**: Villa sandi il fresco&nbsp;(ссылка не из выпуска на [vivino](https://www.vivino.com/wineries/villa-sandi/wines/villa-sandi-prosecco-il-fresco-nv))
 
-{:start = "10"}
 10. Domaine Paul Pillot Bourgogne Pinot Noir, Бургундия, 2014 (ссылка не из выпуска на [vivino](https://www.vivino.com/wineries/azienda-agricola-gini-sandro-e-claudio/wines/azienda-agricola-gini-sandro-e-claudio-pinot-noir-bourgogne-2014))
 
     **Спецвыпуск "Русские евреи 2"**: [Vitovska](https://simplewine.ru/catalog/product/vodopivec_vitovska_2012_075) + ссылка на [vivino](https://www.vivino.com/wineries/vodopivec/wines/vodopivec-vitovska-2012)
@@ -67,7 +66,6 @@
 26. Achaval Ferrer, "Finca Mirador", Mendoza, 2013 + ссылка на [vivino](https://www.vivino.com/achaval-ferrer-finca-mirador-medrano-mendoza-red-wine/w/6137652)
 27. Achaval Ferrer Finca Altamira, 2014 + ссылка на [vivino](https://www.vivino.com/achaval-ferrer-finca-altamira-malbec/w/1176258)
 28. Mauro Molino, Barolo, 2014 + ссылка на [vivino](https://www.vivino.com/mauro-molino-barolo/w/100372?year=2014)
-
 29.
     1. Tenuta delle Terre Nere, Etna Rosso DOC, 2015 + ссылка на [vivino](https://www.vivino.com/tenuta-delle-terre-nere-etna-rosso/w/1225467)
     2. Benanti, Etna Rosso DOC, 2015 + ссылка на [vivino](https://www.vivino.com/benanti-etna-rosso/w/1758784)
