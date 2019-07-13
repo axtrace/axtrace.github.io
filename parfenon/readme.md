@@ -41,7 +41,7 @@
 11. Arinzano Grand Vino, Наварра, 2010 + ссылка на [vivino](https://www.vivino.com/wineries/arinzano/wines/arinzano-gran-vino-blanco-2010)
 12. [Askaneli Brothers Rkatsiteli Qvevri](https://l-wine.ru/collection/item/askaneli-brothers-rkatsiteli-qvevri--2516/) + ссылка на [vivino](https://www.vivino.com/wineries/ge-askaneli-brothers/wines/ge-askaneli-brothers-rkatsiteli-qvevri-uv)
 13. [Chateau Cadet Bon Grand Cru](https://www.eurowine.ru/wine/6592/chateau-cadet-bon-grand-cru/#) + ссылка на [vivino](https://www.vivino.com/wineries/cadet-bon/wines/cadet-bon-saint-emilion-grand-cru-classe-uv)
-14.
+14. 
     1. Fanagoria Cru Lermont Pinot Noir, 2016 + ссылка на [vivino](https://www.vivino.com/wineries/fanagoria/wines/cru-lermont-pinot-noir-2016)
     2. Villa Romanov Meotida Pinot Noir, Тамань, Голубицкая стрелка, 2016 + ссылка на [vivino](https://www.vivino.com/wineries/villa-romanov/wines/villa-romanov-meotida-pinot-noir-uv)
 
@@ -67,7 +67,7 @@
 26. Achaval Ferrer, "Finca Mirador", Mendoza, 2013 + ссылка на [vivino](https://www.vivino.com/achaval-ferrer-finca-mirador-medrano-mendoza-red-wine/w/6137652)
 27. Achaval Ferrer Finca Altamira, 2014 + ссылка на [vivino](https://www.vivino.com/achaval-ferrer-finca-altamira-malbec/w/1176258)
 28. Mauro Molino, Barolo, 2014 + ссылка на [vivino](https://www.vivino.com/mauro-molino-barolo/w/100372?year=2014)
-29. 
+29.
     1. Tenuta delle Terre Nere, Etna Rosso DOC, 2015 + ссылка на [vivino](https://www.vivino.com/tenuta-delle-terre-nere-etna-rosso/w/1225467)
     2. Benanti, Etna Rosso DOC, 2015 + ссылка на [vivino](https://www.vivino.com/benanti-etna-rosso/w/1758784)
     3. Graci Etna Rosso, 2016 + ссылка на [vivino](https://www.vivino.com/graci-etna-rosso/w/75659)
