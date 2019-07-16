@@ -14,11 +14,12 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/54428956" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
-# Курсы, которые я прошел
+# Курсы, которые я прослушал или прошел
 
 
 ## 2019
-1. [Теория игр. ВШЭ](https://github.com/axtrace/knowledge_base/blob/master/courses/GameTheoryHSE) - [ссылка на курс](https://www.coursera.org/learn/game-theory)
+1. [Теория игр. ВШЭ](/GameTheoryHSE.md) - [ссылка на курс](https://www.coursera.org/learn/game-theory)
+2. [Управление IT-проектами и продуктом ](/ProductMng.md) - [ссылка на курс](https://youtu.be/bVJSwGJolSs)
 
 ## 2018
 1. Automate the Boring Stuff with Python Programming - [ссылка на курс](https://www.udemy.com/automate/)
@@ -44,7 +45,6 @@
 8. [Анализ данных на python в примерах и задачах. Часть 2 (осень 2018)](https://www.youtube.com/playlist?list=PLlb7e2G7aSpT1ntsozWmWJ4kGUsUs141Y)
 9. [Нейронные сети](https://stepik.org/course/50352)
 10. [Веб-разработка](https://stepik.org/course/154)
-11. [Продакт менеджмент](https://youtu.be/bVJSwGJolSs)
 12. [Шахматы](https://www.udemy.com/live-chess-playthrough-intermediate/)
 13. [Документирование API](https://github.com/docops-hq/learnapidoc-ru/blob/master/introduction-rest-apis/video-presentations.md)
 14. [SQL](https://stepik.org/course/551)
