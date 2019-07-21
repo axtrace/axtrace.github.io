@@ -15,6 +15,7 @@
 <!-- /Yandex.Metrika counter -->
 
 Собираю на одной странице книги из всех выпусков [«Закладки»](https://www.youtube.com/watch?v=cssTaTNOYRA&list=PLKQxqJVnCqzE6m06JQwfS7gknUPeND2YL) от ещёнепознер
+Книги из передач #ещенепознер собираю [отдельно](/../zakladka)
 
 ### [Закладка #1](https://youtu.be/cssTaTNOYRA): Репин, Горбачёв, Бах, Хокинг и «История старой квартиры»
 1. «[Об искусстве](http://bit.ly/2JOFaSN)». И. Репин
