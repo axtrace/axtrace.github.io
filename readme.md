@@ -26,8 +26,7 @@
 4. [Книги из программы "Закладка" от ещенепознер](/zakladka)
 5. [Книги из выпусков #ещенепознер](/yetnopozner_books)
 6. [Медицинские знания](/health)
-  - [Целиакия](/health/celiac)
-    - [Диагностика](/health/celiac/diagnostic.md)
-    - [Список продуктов с глютеном](/health/celiac/silent_gluten.md)
- -
+    - [Целиакия](/health/celiac)
+      - [Диагностика](/health/celiac/diagnostic.md)
+      - [Список продуктов с глютеном](/health/celiac/silent_gluten.md)
 7. Случайные размышления()
