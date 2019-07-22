@@ -15,6 +15,7 @@
 <!-- /Yandex.Metrika counter -->
 
 Собираю на одной странице книги из всех выпусков [«#ещёнепознер»](https://www.youtube.com/channel/UCNRYbltJXhf6DepS26-uSbQ)
+
 Книги из Закладки собираю [отдельно](/../zakladka)
 
 ### [Митрофанов](https://www.youtube.com/watch?v=xS-mL9Yxs-o&t): КГБ, ЛГБТ и русский апокалипсис #ещенепознер

@@ -15,6 +15,7 @@
 <!-- /Yandex.Metrika counter -->
 
 Собираю на одной странице книги из всех выпусков [«Закладки»](https://www.youtube.com/watch?v=cssTaTNOYRA&list=PLKQxqJVnCqzE6m06JQwfS7gknUPeND2YL) от ещёнепознер
+
 Книги из передач #ещенепознер собираю [отдельно](/../yetnopozner_books)
 
 ### [Закладка #6](https://youtu.be/4dSCpYNKdHY): секреты живописи, тайны деревьев, история медицины
