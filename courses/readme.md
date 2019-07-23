@@ -50,4 +50,4 @@
 14. [SQL](https://stepik.org/course/551)
 
 ---
-[Главная страница](https://axtrace.github.io)
+[Главная страница](/../)
