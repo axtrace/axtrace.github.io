@@ -23,6 +23,7 @@
 3. [Князь мира сего. Климов](desc/KnyazMiraSego.md)
 4. [Солнечное вещество](desc/sol_vestch.md)
 5. [Киберпреступник №1](desc/kiberprestupnik.md)
+6. [Мозг материален](desc/mozg_materail)
 
 ## 2018
 1. Гарри Поттер и философский камень
