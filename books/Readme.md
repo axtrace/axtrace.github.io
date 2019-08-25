@@ -24,6 +24,8 @@
 4. [Солнечное вещество](desc/sol_vestch.md)
 5. [Киберпреступник №1](desc/kiberprestupnik.md)
 6. [Мозг материален](desc/mozg_materail.md)
+7. [Narconomics](desc/narconomics.md)
+8. [Радуга Фейнмана](desc/raduga.md)
 
 ## 2018
 1. Гарри Поттер и философский камень
