@@ -19,3 +19,5 @@
 1. [Целиакия](/celiac)
  - [Диагностика](/celiac/diagnostic.md)
  - [Список продуктов с глютеном](/celiac/silent_gluten.md)
+ 2. Вакцинация
+ - [от гриппа](/Vaccination/flu.md)
