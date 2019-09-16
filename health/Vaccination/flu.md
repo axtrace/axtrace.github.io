@@ -10,3 +10,29 @@
 
 Все вакцины сейчас трехвалентные, то есть защищают от трех штаммов. 
 Но идет внедрение четырехвалентных вакцин. https://lenta.ru/news/2019/09/16/privivka/
+
+Ну и чисто для понимания. Вот составы выкцин. Видно, что на 0.5 млг в импортных и Ультриксе в три раза больше, чем в Грипполе.
+---
+[Ваксигрип](https://yandex.ru/health/pills/product/vaksigrip-24369):
+
+![](flu_img/vaxigrip.png)
+---
+
+[Инфлювак](https://yandex.ru/health/pills/product/inflyuvak-1274):
+
+![](flu_img/influvak.png)
+---
+
+[Ультрикс](https://yandex.ru/health/pills/product/ultriks-39477):
+
+![](flu_img/Ultriks.png)
+---
+
+[Гриппол Плюс](https://yandex.ru/health/pills/product/grippol-plyus-18818):
+
+![](flu_img/grippol.png)
+---
+
+[Совингрипп](https://yandex.ru/health/pills/product/sovigripp-38491):
+
+![](flu_img/Sovingripp.png)
