@@ -89,6 +89,7 @@
 
     **Третий прямой эфир**: Грузинское оранжевое вино  [Iago's Wine Chinuri](https://www.vivino.com/iagos-iago-chinuri-unknown-v-0sr8p/w/5714269)
 
+37. Chateau La Grolet, Cotes de Bourg AOC + ссылка на [vivino](https://www.vivino.com/la-grolet-cotes-de-bourg/w/1154419)
 
     ---
     [Главная страница](https://axtrace.github.io)
