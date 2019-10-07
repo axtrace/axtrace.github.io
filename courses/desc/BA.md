@@ -22,4 +22,4 @@
 
 >A user story map is a canvas that helps plot larger themes of requirements to epics and user stories.
 
->Quality can be defined through an organisational capability to deliver what it promises to deliver
+>Quality is everybody's job.
