@@ -20,9 +20,10 @@
 ## 2019
 1. [Теория игр. ВШЭ](desc/GameTheoryHSE.md) - [ссылка на курс](https://www.coursera.org/learn/game-theory)
 2. [Управление IT-проектами и продуктом ](desc/ProductMng.md) - [ссылка на курс](https://youtu.be/bVJSwGJolSs)
+3. [Full Business Analysis Study Guide](desc/BA.md) - [ссылка на курс](https://www.udemy.com/course/business-analysis-study-guide/)
 
 ## 2018
-1. Automate the Boring Stuff with Python Programming - [ссылка на курс](https://www.udemy.com/automate/)
+1. [Automate the Boring Stuff with Python Programming](desc/BoringStuff.md) - [ссылка на курс](https://www.udemy.com/automate/)
 
 ## 2017
 1. Основы программирования на Python - [ссылка на курс](https://www.coursera.org/learn/python-osnovy-programmirovaniya)
