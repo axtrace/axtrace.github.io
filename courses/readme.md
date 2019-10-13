@@ -49,6 +49,7 @@
 12. [Шахматы](https://www.udemy.com/live-chess-playthrough-intermediate/)
 13. [Документирование API](https://github.com/docops-hq/learnapidoc-ru/blob/master/introduction-rest-apis/video-presentations.md)
 14. [SQL](https://stepik.org/course/551)
+15. [The art of storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling/)
 
 ---
 [Главная страница](/../)
