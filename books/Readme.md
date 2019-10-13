@@ -26,6 +26,7 @@
 6. [Мозг материален](desc/mozg_materail.md)
 7. [Narconomics](desc/narconomics.md)
 8. [Радуга Фейнмана](desc/raduga.md)
+9. [Эмоциональный интеллект ребенка](desc/EQ_child.md)
 
 ## 2018
 1. Гарри Поттер и философский камень
