@@ -50,6 +50,7 @@
 13. [Документирование API](https://github.com/docops-hq/learnapidoc-ru/blob/master/introduction-rest-apis/video-presentations.md)
 14. [SQL](https://stepik.org/course/551)
 15. [The art of storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling/)
+16. [SRS Documents: Requirements and Diagrammatic Notations](https://www.coursera.org/learn/srs-documents-requirements)
 
 ---
 [Главная страница](/../)
