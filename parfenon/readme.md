@@ -73,14 +73,14 @@
     3. Graci Etna Rosso, 2016 + ссылка на [vivino](https://www.vivino.com/graci-etna-rosso/w/75659)
     4. Etna Rosso DOC Arcuria, 2015 + ссылка на [vivino](https://www.vivino.com/graci-arcuria-etna-rosso/w/2134507)  
 
-30.  
+30. _  
     1. Chanterêves Bourgogne Pinot Noir, 2016 + ссылка на [vivino](https://www.vivino.com/chantereves-bourgogne-pinot-noir/w/2922322?year=2016)
     2. Girolamo Russo 'San Lorenzo' Etna Rosso, 2015 + ссылка на [vivino](https://www.vivino.com/girolamo-russo-san-lorenzo-etna-rosso/w/1217639?year=2015)
     3. Azienda Agricola Ciro Biondi Cisterna Fuori Etna DOC + ссылка на похожее на [vivino](https://www.vivino.com/azienda-agricola-sergio-arcuri-piu-vite-riserva/w/5529312)
     4. Benanti, «Serra della Contessa», Etna DOC Rosso, 2011 + ссылка на [vivino](https://www.vivino.com/benanti-serra-della-contessa-etna-rosso/w/15297)
 
 31. Poderi Boscarelli Vino Nobile di Montepulciano 2015 + ссылка на похожее на [vivino](https://www.vivino.com/podere-boscarelli-vino-nobile-di-montepulciano-costa-grande/w/6835233?year=2015)  
-32.   
+32.  _  
     1. Ronco Severo Ribolla Gialla delle Venezie IGT, 2016 + ссылка на [vivino](https://www.vivino.com/ronco-severo-ribolla-gialla/w/3566460)
     2. Vigneto Altura Ansonaco dell' Isola del Giglio Toscana + ссылка на [vivino](https://www.vivino.com/vigneti-st-giorgia-serrone-vino-ansonaco-dell-isola-del-giglio-white-wine-v-jm4cj/w/5606418)
 33. Pieropan, Amarone della Valpolicella DOCG, 2013 + ссылка на [vivino](https://www.vivino.com/pieropan-amarone-della-valpolicella/w/4398766)
@@ -88,9 +88,9 @@
 35. Emilio Moro Malleolus, 2015 + ссылка на [vivino](https://www.vivino.com/emilio-moro-malleolus/w/11604?year=2015)
 
     **Третий прямой эфир**: Грузинское оранжевое вино  [Iago's Wine Chinuri](https://www.vivino.com/iagos-iago-chinuri-unknown-v-0sr8p/w/5714269)
-
+36.  _
 37. Chateau La Grolet, Cotes de Bourg AOC + ссылка на [vivino](https://www.vivino.com/la-grolet-cotes-de-bourg/w/1154419)
-
+38.  _
 39. Tenuta di Aglaea "Contrada Santo Spirito" Etna DOC, 2015 + ссылка на [vivino](https://www.vivino.com/aglaea-contrada-santo-spirito-etna/w/6033472?year=2015)
     
     ---
