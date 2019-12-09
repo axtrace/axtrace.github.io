@@ -91,5 +91,7 @@
 
 37. Chateau La Grolet, Cotes de Bourg AOC + ссылка на [vivino](https://www.vivino.com/la-grolet-cotes-de-bourg/w/1154419)
 
+39. Tenuta di Aglaea "Contrada Santo Spirito" Etna DOC, 2015 + ссылка на [vivino](https://www.vivino.com/aglaea-contrada-santo-spirito-etna/w/6033472?year=2015)
+    
     ---
     [Главная страница](https://axtrace.github.io)
