@@ -48,7 +48,7 @@
 9. [Нейронные сети](https://stepik.org/course/50352)
 10. [Веб-разработка](https://stepik.org/course/154)
 12. [Шахматы](https://www.udemy.com/live-chess-playthrough-intermediate/)
-13. [Документирование API](https://github.com/docops-hq/learnapidoc-ru/blob/master/introduction-rest-apis/video-presentations.md)
+13. [Документирование API](https://github.com/docops-hq/learnapidoc-ru)
 14. [SQL](https://stepik.org/course/551)
 15. [The art of storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling/)
 16. [Системное мышление] - [ссылка на курс](https://www.coursera.org/learn/system-thinking/home/welcome)
