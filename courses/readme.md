@@ -51,7 +51,7 @@
 13. [Документирование API](https://github.com/docops-hq/learnapidoc-ru/blob/master/introduction-rest-apis/video-presentations.md)
 14. [SQL](https://stepik.org/course/551)
 15. [The art of storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling/)
-16. 
+16. [Системное мышление] - [ссылка на курс](https://www.coursera.org/learn/system-thinking/home/welcome)
 17. [Введение в базы данных]() - [ссылка на курс](https://stepik.org/course/1240/syllabus)
 
 ---
