@@ -14,6 +14,9 @@
 <noscript><div><img src="https://mc.yandex.ru/watch/54428956" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
 
+# ТУТ Я ПЕРЕСТАЛ ВЕСТИ ЭТОТ СПИСОК, ПОТОМУ ЧТО ЕЩЕНЕПОЗНЕР ДОГАДАЛИСЬ-ТАКИ САМИ СДЕЛАТЬ САЙТ С КОНТЕНТОМ
+https://eshenepozner.ru/episodes
+
 ## КНИГИ ИЗ #ещенепознер
 
 Собираю на одной странице книги из всех выпусков [«#ещёнепознер»](https://www.youtube.com/channel/UCNRYbltJXhf6DepS26-uSbQ)
