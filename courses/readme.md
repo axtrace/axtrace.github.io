@@ -16,6 +16,9 @@
 
 # Курсы, которые я прослушал или прошел
 
+## 2020
+1. Основные практики архитектора ПО - []()
+2. [Системное мышление](desc/sys_think.md) - [ссылка на курс](https://www.coursera.org/learn/system-thinking/home/welcome)
 
 ## 2019
 1. [Теория игр. ВШЭ](desc/GameTheoryHSE.md) - [ссылка на курс](https://www.coursera.org/learn/game-theory)
