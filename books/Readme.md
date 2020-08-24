@@ -13,6 +13,10 @@
 </script>
 <noscript><div><img src="https://mc.yandex.ru/watch/54428956" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
 <!-- /Yandex.Metrika counter -->
+>Читает, читает, а дураком помрет  
+
+Довлатов
+
 
 # Книги, которые я прочитал
 
