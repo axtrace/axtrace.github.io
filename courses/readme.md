@@ -17,8 +17,9 @@
 # Курсы, которые я прослушал или прошел
 
 ## 2020
-1. Основные практики архитектора ПО - []()
+1. [Основные практики архитектора ПО](desc/ARC-001.md) - ОЧНЫЙ КУРС [ссылка на курс](https://www.luxoft-training.ru/kurs/klyuchevye_praktiki_arhitektora_po.html)
 2. [Системное мышление](desc/sys_think.md) - [ссылка на курс](https://www.coursera.org/learn/system-thinking/home/welcome)
+3. [Object-Oriented Design](desc/obj_oriented_design.md) - [ссылка на курс](https://www.coursera.org/learn/object-oriented-design)
 
 ## 2019
 1. [Теория игр. ВШЭ](desc/GameTheoryHSE.md) - [ссылка на курс](https://www.coursera.org/learn/game-theory)
