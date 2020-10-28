@@ -15,9 +15,9 @@ https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley/home/wel
 
 
 # Полезные материалы
-* [Для тех, кто немного знаком с математикой почитать про алгоритмы машинного обучения:](http://ru.datasides.com/code/algorithms-machine-learning/https://tproger.ru/translations/top-machine-learning-algorithms/)
+* Для тех, кто немного знаком с математикой почитать про алгоритмы машинного обучения:[раз](http://ru.datasides.com/code/algorithms-machine-learning/, [два](https://tproger.ru/translations/top-machine-learning-algorithms/)
 * Про метрики в машинном обучении: [bazhenov.me](http://bazhenov.me/blog/2012/07/21/classification-performance-evaluation.html), [habr](https://habr.com/company/ods/blog/328372/)
-* [И для тех, кто еще не разбирается в статистике самое-то почитать на выходных"Статистика и котики" - Савельев Владимир](https://www.rulit.me/books/statistika-i-kotiki-read-473467-1.html)
+* И для тех, кто еще не разбирается в статистике самое-то почитать на выходных ["Статистика и котики" - Савельев Владимир](https://www.rulit.me/books/statistika-i-kotiki-read-473467-1.html)
 * [Как машинное обучение в YouDo катится в продакшн. Лекция в Яндексе](https://habr.com/company/yandex/blog/428700/?fbclid=IwAR3bNRHIyQoC7_ZFy3tHiSP1Xc4elb_LpAv-vrZ3eK4r9Z)
 * [Рассказ о применении алгоритмов в «Яндекс.Такси»](https://vc.ru/yandex.taxi/50668-mashinnoe-obuchenie-molodec)
 
