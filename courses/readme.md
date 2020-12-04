@@ -21,6 +21,7 @@
 2. [Системное мышление](desc/sys_think.md) - [ссылка на курс](https://www.coursera.org/learn/system-thinking/home/welcome)
 3. [Object-Oriented Design](desc/obj_oriented_design.md) - [ссылка на курс](https://www.coursera.org/learn/object-oriented-design)
 4. [Машинное обучение для руководителей](desc/ML_managers.md) - [ссылка на курс](https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley)
+5. [design_patterns](desc/design_patterns.md) - [ссылка на курс](https://www.coursera.org/learn/design-patterns)
 
 
 ## 2019
