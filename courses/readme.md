@@ -22,13 +22,14 @@
 3. [Object-Oriented Design](desc/obj_oriented_design.md) - [ссылка на курс](https://www.coursera.org/learn/object-oriented-design)
 4. [Машинное обучение для руководителей](desc/ML_managers.md) - [ссылка на курс](https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley)
 5. [design_patterns](desc/design_patterns.md) - [ссылка на курс](https://www.coursera.org/learn/design-patterns)
+6. [SRS Documents: Requirements and Diagrammatic Notations]() - [ссылка на курс](https://www.coursera.org/learn/srs-documents-requirements/)
 
 
 ## 2019
 1. [Теория игр. ВШЭ](desc/GameTheoryHSE.md) - [ссылка на курс](https://www.coursera.org/learn/game-theory)
 2. [Управление IT-проектами и продуктом ](desc/ProductMng.md) - [ссылка на курс](https://youtu.be/bVJSwGJolSs)
 3. [Full Business Analysis Study Guide](desc/BA.md) - [ссылка на курс](https://www.udemy.com/course/business-analysis-study-guide/)
-4. [SRS Documents: Requirements and Diagrammatic Notations](desc/SRS_Documents.md) - [ссылка на курс](https://www.coursera.org/learn/srs-documents-requirements). Прослушал, задания не выполнял, оплачивать не стал.
+4. [SRS Documents: Requirements and Diagrammatic Notations](desc/SRS_Documents.md) - [ссылка на курс](https://www.coursera.org/learn/srs-documents-requirements)
 
 ## 2018
 1. [Automate the Boring Stuff with Python Programming](desc/BoringStuff.md) - [ссылка на курс](https://www.udemy.com/automate/)
@@ -59,6 +60,7 @@
 14. [SQL](https://stepik.org/course/551)
 15. [The art of storytelling](https://www.khanacademy.org/partner-content/pixar/storytelling/)
 17. [Введение в базы данных]() - [ссылка на курс](https://stepik.org/course/1240/syllabus)
+18. [Базы данных (Databases)]() - [ссылка на курс](https://www.coursera.org/learn/data-bases-intr/)
 
 ---
 [Главная страница](/../)
