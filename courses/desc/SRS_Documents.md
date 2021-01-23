@@ -13,4 +13,4 @@ Nodes:
 - Статья про выделения misuse cases. Старая, но есть о чем подумать. [Eliciting security requirements with misuse cases](https://sci-hub.se/10.1007/s00766-004-0194-4) DOI 10.1007/s00766-004-0194-4
 - Статья про фреймы связи требований и архитектуры. [Relating software requirements and architectures using problem frames](https://www.researchgate.net/publication/3977346_Relating_software_requirements_and_architectures_using_problem_frames)
 
-Под конец 2020 удалось за счет лицензии от работодателя дорешать задания и тесты и ((получить сертифика))
+Под конец 2020 удалось за счет лицензии от работодателя дорешать задания и тесты и получить сертификат
