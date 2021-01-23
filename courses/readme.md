@@ -22,7 +22,7 @@
 3. [Object-Oriented Design](desc/obj_oriented_design.md) - [ссылка на курс](https://www.coursera.org/learn/object-oriented-design)
 4. [Машинное обучение для руководителей](desc/ML_managers.md) - [ссылка на курс](https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley)
 5. [design_patterns](desc/design_patterns.md) - [ссылка на курс](https://www.coursera.org/learn/design-patterns)
-6. [SRS Documents: Requirements and Diagrammatic Notations]() - [ссылка на курс](https://www.coursera.org/learn/srs-documents-requirements/)
+6. [SRS Documents: Requirements and Diagrammatic Notations](desc/SRSDocument.md) - [ссылка на курс](https://www.coursera.org/learn/srs-documents-requirements/)
 
 
 ## 2019
