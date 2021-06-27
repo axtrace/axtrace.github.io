@@ -30,3 +30,4 @@
       - [Диагностика](/health/celiac/diagnostic.md)
       - [Список продуктов с глютеном](/health/celiac/silent_gluten.md)
 7. Случайные размышления()
+8. [Разные заметки](/notes)
