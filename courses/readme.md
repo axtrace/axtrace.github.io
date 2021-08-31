@@ -15,6 +15,8 @@
 <!-- /Yandex.Metrika counter -->
 
 # Курсы, которые я прослушал или прошел
+## 2021
+1. [Коронавирусы и COVID-19: первые итоги](desc/coronaviruses.md) - [ссылка на курс](https://www.coursera.org/learn/coronaviruses/)
 
 ## 2020
 1. [Основные практики архитектора ПО](desc/ARC-001.md) - ОЧНЫЙ КУРС [ссылка на курс](https://www.luxoft-training.ru/kurs/klyuchevye_praktiki_arhitektora_po.html)
