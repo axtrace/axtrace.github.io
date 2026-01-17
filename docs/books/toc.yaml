@@ -10,6 +10,7 @@ items:
   - name: Гарри Поттер и методы рационального мышления
     href: desc/hpmor.md
   - name: Задача трёх тел (трилогия)
+    expanded: true
     items:
       - name: Задача трёх тел
         href: desc/3body.md
