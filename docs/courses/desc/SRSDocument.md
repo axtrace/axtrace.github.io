@@ -11,7 +11,7 @@ https://www.coursera.org/learn/srs-documents-requirements
 Nodes:
 - Для сложных комбинаций различных условий рекомендуют использовать таблички. Нагляднее и понятнее. Кажется, у Вигерса тоже что-то такое было
 
-![](_images/courses/desc/img/srs_week1_doc2_table.png)
+![](../../_images/courses/desc/img/srs_week1_doc2_table.png)
 
 - Модели в SRS - это модели проблем, а не модели решений
 

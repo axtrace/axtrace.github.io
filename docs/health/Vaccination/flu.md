@@ -21,24 +21,24 @@ keywords: "вакцинация от гриппа, прививка от гри�
 ---
 [Ваксигрип](https://yandex.ru/health/pills/product/vaksigrip-24369):
 
-![](_images/health/Vaccination/flu_img/vaxigrip.png)
+![](../../_images/health/Vaccination/flu_img/vaxigrip.png)
 ---
 
 [Инфлювак](https://yandex.ru/health/pills/product/inflyuvak-1274):
 
-![](_images/health/Vaccination/flu_img/influvak.png)
+![](../../_images/health/Vaccination/flu_img/influvak.png)
 ---
 
 [Ультрикс](https://yandex.ru/health/pills/product/ultriks-39477):
 
-![](_images/health/Vaccination/flu_img/Ultriks.png)
+![](../../_images/health/Vaccination/flu_img/Ultriks.png)
 ---
 
 [Гриппол Плюс](https://yandex.ru/health/pills/product/grippol-plyus-18818):
 
-![](_images/health/Vaccination/flu_img/grippol.png)
+![](../../_images/health/Vaccination/flu_img/grippol.png)
 ---
 
 [Совингрипп](https://yandex.ru/health/pills/product/sovigripp-38491):
 
-![](_images/health/Vaccination/flu_img/Sovingripp.png)
+![](../../_images/health/Vaccination/flu_img/Sovingripp.png)

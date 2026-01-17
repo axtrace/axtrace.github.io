@@ -113,7 +113,7 @@ R0, — это, упрощенно говоря, безразмерный пар
 
 ### Геном
 
-![](_images/courses/desc/img/Sars_cov2_genome.png)
+![](../../_images/courses/desc/img/Sars_cov2_genome.png)
 
 Состоит из белков:
 * N - нуклеопротеин.

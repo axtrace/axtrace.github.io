@@ -2,7 +2,7 @@
 
 
 
-![](_images/parfenon/img/Parfenon.png)
+![](./_images/parfenon/img/Parfenon.png)
 
 Список вин из видео-блога Леонида Парфенова ["Парфенон"](https://www.youtube.com/channel/UCbhMGG0ZievPtK8mzLH5jhQ). Названия кликабельны. Номера соответствуют выпускам.
 
