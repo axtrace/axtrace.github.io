@@ -1,8 +1,13 @@
+---
+description: "Обзор курса «Full Business Analysis Study Guide» - полное руководство по бизнес-анализу на основе BABOK"
+keywords: "бизнес-анализ, BABOK, business analysis, требования, stakeholder management, обзор курса"
+---
+
 # Full Business Analysis Study Guide
 
 [Ссылка на курс](https://www.udemy.com/course/business-analysis-study-guide/)
 
-Хороший добротный курс с сильной опорой на BABOK (Business Analysis Body of Knowledge). 
+Хороший добротный курс с сильной опорой на BABOK (Business Analysis Body of Knowledge).
 Но кроме него в каждом разделе даются ссылки и на другие статьи, стандарты, методики и книги.
 
 По сути, за курс можно обозреть группы техник из BABOK и понять их применимость в тех или иных ситуациях.

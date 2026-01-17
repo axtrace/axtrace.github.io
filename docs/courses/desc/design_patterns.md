@@ -1,3 +1,8 @@
+---
+description: "Обзор курса «Design Patterns» - паттерны проектирования ПО на основе книги «Банда четырех»"
+keywords: "design patterns, паттерны проектирования, Gang of Four, GoF, программирование, архитектура ПО, обзор курса"
+---
+
 ## Design Patterns
 
 https://www.coursera.org/learn/design-patterns

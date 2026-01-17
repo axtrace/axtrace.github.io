@@ -1,3 +1,8 @@
+---
+description: "Обзор курса «Automate the Boring Stuff with Python» - автоматизация рутинных задач с помощью Python"
+keywords: "Python, автоматизация, программирование, Automate the Boring Stuff, веб-скрапинг, MS Office, обзор курса"
+---
+
 # Automate the Boring Stuff with Python Programming
 
 [Ссылка на курс](https://www.udemy.com/course/automate/)

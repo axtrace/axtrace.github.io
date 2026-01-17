@@ -1,3 +1,8 @@
+---
+description: "Обзор курса «Машинное обучение для руководителей» - виды машинного обучения и их применимость в проектах"
+keywords: "машинное обучение, ML, data science, руководителям, менеджерам, искусственный интеллект, обзор курса"
+---
+
 Курс "Машинное обучение для руководителей"
 https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley/home/welcome
 
@@ -31,7 +36,7 @@ https://www.coursera.org/learn/mashinnoye-obucheniye-dlya-rukovoditeley/home/wel
 * [В чем разница между CPU и GPU? ](https://tproger.ru/articles/cpu-and-gpu/)
 * [Deep learning ](https://ideanomics.ru/articles/1849)
 
-## Модуль 3: 
+## Модуль 3:
 * [О том, что такое Переобучение моделей ](http://www.machinelearning.ru/wiki/index.php?title=Переобучение)
 * [Scrum(скрам) и другие методы управления проектами. ](https://rb.ru/story/agile-scrum-kanban/)
 * Feature Engineering [раз](https://habr.com/ru/company/mlclass/blog/248129/), [два](https://habr.com/ru/company/ods/blog/325422/)

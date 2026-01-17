@@ -1,3 +1,8 @@
+---
+description: "Обзор курса «SRS Documents: Requirements and Diagrammatic Notations» - требования и диаграммная нотация для SRS документов"
+keywords: "SRS, требования, software requirements, диаграммы, misuse cases, системный анализ, обзор курса"
+---
+
 SRS Documents: Requirements and Diagrammatic Notations
 https://www.coursera.org/learn/srs-documents-requirements
 

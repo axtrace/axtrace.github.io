@@ -1,3 +1,8 @@
+---
+description: "Тактика диагностики целиакии - анализы крови, биопсия и генетический анализ для постановки диагноза"
+keywords: "целиакия, диагностика целиакии, глютен, IgA, биопсия, HLA DQ-2, HLA DQ-8, непереносимость глютена"
+---
+
 <!-- Yandex.Metrika counter -->
 <script type="text/javascript" >
    (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
