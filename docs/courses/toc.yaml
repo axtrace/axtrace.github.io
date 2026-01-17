@@ -1,25 +1,22 @@
-- title: Описание курсов
-  href: index.md
-  items:
-    - name: Коронавирусы и COVID-19
-      href: desc/coronaviruses.md
-    - name: Основные практики архитектора ПО
-      href: desc/ARC-001.md
-    - name: Системное мышление
-      href: desc/sys_think.md
-    - name: Object-Oriented Design
-      href: desc/obj_oriented_design.md
-    - name: Машинное обучение для руководителей
-      href: desc/ML_managers.md
-    - name: Design Patterns
-      href: desc/design_patterns.md
-    - name: SRS Documents
-      href: desc/SRSDocument.md
-    - name: Теория игр. ВШЭ
-      href: desc/GameTheoryHSE.md
-    - name: Управление IT-проектами и продуктом
-      href: desc/ProductMng.md
-    - name: Full Business Analysis Study Guide
-      href: desc/BA.md
-    - name: Automate the Boring Stuff with Python
-      href: desc/BoringStuff.md
+- name: Коронавирусы и COVID-19
+  href: desc/coronaviruses.md
+- name: Основные практики архитектора ПО
+  href: desc/ARC-001.md
+- name: Системное мышление
+  href: desc/sys_think.md
+- name: Object-Oriented Design
+  href: desc/obj_oriented_design.md
+- name: Машинное обучение для руководителей
+  href: desc/ML_managers.md
+- name: Design Patterns
+  href: desc/design_patterns.md
+- name: SRS Documents
+  href: desc/SRSDocument.md
+- name: Теория игр. ВШЭ
+  href: desc/GameTheoryHSE.md
+- name: Управление IT-проектами и продуктом
+  href: desc/ProductMng.md
+- name: Full Business Analysis Study Guide
+  href: desc/BA.md
+- name: Automate the Boring Stuff with Python
+  href: desc/BoringStuff.md
