@@ -13,7 +13,7 @@
     "build": "npm run build:docs"
   },
   "dependencies": {
-    "@diplodoc/cli": "^4.55.1",
+    "@diplodoc/cli": "^4.59.13",
     "chokidar": "^3.5.3",
     "express": "^4.18.2",
     "glob": "^10.3.4",
