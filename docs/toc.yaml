@@ -26,17 +26,17 @@ items:
     href: books/overview.md
     items:
       - name: Список
-        include: { mode: merge, path: ./books/toc.yaml }
+        include: { mode: link, path: ./books/toc.yaml }
 
   - name: Курсы
     href: courses/overview.md
     items:
-      - include: { mode: merge, path: ./courses/toc.yaml }
+      - include: { mode: link, path: ./courses/toc.yaml }
 
   - name: Медицинские знания
     href: health/overview.md
     items:
-      - include: { mode: merge, path: ./health/toc.yaml }
+      - include: { mode: link, path: ./health/toc.yaml }
 
   - name: Вина из Парфенона
     href: parfenon/index.md

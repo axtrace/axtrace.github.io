@@ -1,60 +1,63 @@
-- name: Задача трёх тел
-  href: desc/3body.md
-- name: Тёмный лес
-  href: desc/3body_dark_forest.md
-- name: Вечная жизнь смерти
-  href: desc/3body_vechnaya_zhizn_smerty.md
-- name: Митник. Искусство вторжения
-  href: desc/Mitnick_Intrusion.md
-- name: Орлов. Джедайские техники конструктивного общения
-  href: desc/Jedi_constr.md
-- name: Книга API
-  href: desc/api_book.md
-- name: Вигерс. Разработка требований к программному обеспечению
-  href: desc/wiegers.md
-- name: Эдвард Сноуден. Личное дело
-  href: desc/snowden_record.md
-- name: Новые правила деловой переписки
-  href: desc/new_rules_email.md
-- name: Невероятно - не факт
-  href: desc/Incredible.md
-- name: Как лгать при помощи статистики
-  href: desc/stat_lie.md
-- name: Как сделать, чтобы дети учились с удовольствием
-  href: desc/japan_studies.md
-- name: Краткие вопросы на большие ответы
-  href: desc/brief_answers.md
-- name: Максимальный репост
-  href: desc/max_repost.md
-- name: Памяти детства
-  href: desc/pamyat_detstva.md
-- name: Недоверчивые умы
-  href: desc/Suspicious_minds.md
-- name: Вдохновленные
-  href: desc/inspired.md
-- name: Ненасильственное общение
-  href: desc/NNC.md
-- name: Гарри Поттер и методы рационального мышления
-  href: desc/hpmor.md
-- name: Князь мира сего
-  href: desc/KnyazMiraSego.md
-- name: Солнечное вещество
-  href: desc/sol_vestch.md
-- name: Киберпреступник №1
-  href: desc/kiberprestupnik.md
-- name: Мозг материален
-  href: desc/mozg_materail.md
-- name: Narconomics
-  href: desc/narconomics.md
-- name: Радуга Фейнмана
-  href: desc/raduga.md
-- name: Эмоциональный интеллект ребенка
-  href: desc/EQ_child.md
-- name: Вторжение. Краткая история русских хакеров
-  href: desc/russian_hackers.md
-- name: Путь аналитика
-  href: desc/IT_analyst_way
-- name: Байесовская статистика
-  href: desc/bayesian.md
-- name: Эгоистичный ген
-  href: desc/selfish_gene.md
+title: Книги
+href: overview.md
+items:
+  - name: Задача трёх тел
+    href: desc/3body.md
+  - name: Тёмный лес
+    href: desc/3body_dark_forest.md
+  - name: Вечная жизнь смерти
+    href: desc/3body_vechnaya_zhizn_smerty.md
+  - name: Митник. Искусство вторжения
+    href: desc/Mitnick_Intrusion.md
+  - name: Орлов. Джедайские техники конструктивного общения
+    href: desc/Jedi_constr.md
+  - name: Книга API
+    href: desc/api_book.md
+  - name: Вигерс. Разработка требований к программному обеспечению
+    href: desc/wiegers.md
+  - name: Эдвард Сноуден. Личное дело
+    href: desc/snowden_record.md
+  - name: Новые правила деловой переписки
+    href: desc/new_rules_email.md
+  - name: Невероятно - не факт
+    href: desc/Incredible.md
+  - name: Как лгать при помощи статистики
+    href: desc/stat_lie.md
+  - name: Как сделать, чтобы дети учились с удовольствием
+    href: desc/japan_studies.md
+  - name: Краткие вопросы на большие ответы
+    href: desc/brief_answers.md
+  - name: Максимальный репост
+    href: desc/max_repost.md
+  - name: Памяти детства
+    href: desc/pamyat_detstva.md
+  - name: Недоверчивые умы
+    href: desc/Suspicious_minds.md
+  - name: Вдохновленные
+    href: desc/inspired.md
+  - name: Ненасильственное общение
+    href: desc/NNC.md
+  - name: Гарри Поттер и методы рационального мышления
+    href: desc/hpmor.md
+  - name: Князь мира сего
+    href: desc/KnyazMiraSego.md
+  - name: Солнечное вещество
+    href: desc/sol_vestch.md
+  - name: Киберпреступник №1
+    href: desc/kiberprestupnik.md
+  - name: Мозг материален
+    href: desc/mozg_materail.md
+  - name: Narconomics
+    href: desc/narconomics.md
+  - name: Радуга Фейнмана
+    href: desc/raduga.md
+  - name: Эмоциональный интеллект ребенка
+    href: desc/EQ_child.md
+  - name: Вторжение. Краткая история русских хакеров
+    href: desc/russian_hackers.md
+  - name: Путь аналитика
+    href: desc/IT_analyst_way.md
+  - name: Байесовская статистика
+    href: desc/bayesian.md
+  - name: Эгоистичный ген
+    href: desc/selfish_gene.md
