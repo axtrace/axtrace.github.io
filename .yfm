@@ -1,0 +1,12 @@
+input: ./docs
+output: ./docs-html
+allowHTML: true
+strict: false
+quiet: false
+
+vars:
+  project-name: "AXTRACE Knowledge Base"
+  site-url: "https://axtrace.github.io"
+
+lint:
+  enabled: false

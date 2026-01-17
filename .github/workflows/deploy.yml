@@ -21,22 +21,30 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      
-      - name: Setup Node.js
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+
+      - name: Build docs
+        uses: diplodoc-platform/docs-build-static-action@v1
+        with:
+          src-root: './docs'
+          build-root: './docs-html'
+
+      - name: Setup Node.js for post-processing
         uses: actions/setup-node@v4
         with:
           node-version: '20'
-          cache: 'npm'
-      
-      - name: Install dependencies
+
+      - name: Install dependencies for post-processing
         run: npm ci
-      
-      - name: Build documentation
-        run: npm run build
-      
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-      
+
+      - name: Inject Yandex.Metrika
+        run: node scripts/inject-metrika.js
+
+      - name: Create redirects
+        run: node scripts/create-redirects.js
+
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
@@ -52,4 +60,3 @@ jobs:
       - name: Deploy to GitHub Pages
         id: deployment
         uses: actions/deploy-pages@v4
-

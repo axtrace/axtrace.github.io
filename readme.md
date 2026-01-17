@@ -1,12 +1,13 @@
 # AXTRACE Knowledge Base
 
-Личная база знаний на базе [Diplodoc](https://github.com/diplodoc-platform/documentation-template).
+Личная база знаний на базе [Diplodoc](https://diplodoc.com/).
 
 ## Структура
 
 - `docs/` - исходные markdown файлы документации
 - `docs-html/` - сгенерированные HTML файлы (не коммитятся в git)
-- `scripts/` - скрипты для сборки, инжекции Metrika и создания редиректов
+- `scripts/` - скрипты для пост-обработки (инжекция Metrika, создание редиректов)
+- `.yfm` - конфигурационный файл Diplodoc
 
 ## Разработка
 
@@ -28,15 +29,18 @@ npm start
 npm run build
 ```
 
-Это создаст HTML файлы в `docs-html/` и:
-- Инжектирует Yandex.Metrika во все страницы
-- Создаст редиректы для старых URL
+Сборка выполняется через Diplodoc CLI и включает:
+1. Компиляцию markdown в HTML через `yfm build`
+2. Инжекцию Yandex.Metrika во все страницы
+3. Создание редиректов для старых URL
 
 ## Деплой
 
 Деплой происходит автоматически через GitHub Actions при пуше в ветку `main`.
 
-Также можно настроить GitHub Pages вручную:
+Используется официальный action от Diplodoc: `diplodoc-platform/docs-build-static-action@v1`
+
+Настройка GitHub Pages:
 1. Settings → Pages
 2. Source: GitHub Actions
 3. После первого деплоя сайт будет доступен на `https://axtrace.github.io`
