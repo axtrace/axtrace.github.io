@@ -1,22 +1,41 @@
 title: AXTRACE Knowledge Base
 description: Личная база знаний
-
+navigation:
+  logo:
+    dark:
+      icon: 'https://storage.yandexcloud.net/highuncertainty/highuncertainty-logo.svg'
+      text: 'AXTRACE Knowledge Base'
+    light:
+      icon: 'https://storage.yandexcloud.net/highuncertainty/highuncertainty-logo.svg'
+      text: 'AXTRACE Knowledge Base'
+  header:
+    leftItems:
+      - text: 'Обо мне'
+        type: 'link'
+        url: './ru/about'
+      - text: 'Статьи и заметки'
+        type: 'link'
+        url: './ru/articles/index'
+    rightItems:
+      - type: controls
 items:
   - name: Главная
     href: index.md
 
   - name: Книги
-    href: books/index.md
     items:
-      - include: { mode: merge, path: ./books/toc.yaml }
-  
+      - name: Обзор
+        href: books/index.md
+      - name: Список
+        include: { mode: merge, path: ./books/toc.yaml }
+
   - name: Курсы
-    href: courses/index.md
     items:
+      - name: Обзор
+        href: courses/index.md
       - include: { mode: merge, path: ./courses/toc.yaml }
 
   - name: Медицинские знания
-    href: health/index.md
     items:
       - include: { mode: merge, path: ./health/toc.yaml }
 
@@ -36,4 +55,3 @@ items:
 
   - name: Анекдоты
     href: anecdots/index.md
-

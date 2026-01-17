@@ -1,25 +1,24 @@
 - title: Описание курсов
-  href: index.md 
   items:
     - name: Коронавирусы и COVID-19
-      href: courses/desc/coronaviruses.md
+      href: desc/coronaviruses.md
     - name: Основные практики архитектора ПО
-      href: courses/desc/ARC-001.md
+      href: desc/ARC-001.md
     - name: Системное мышление
-      href: courses/desc/sys_think.md
+      href: desc/sys_think.md
     - name: Object-Oriented Design
-      href: courses/desc/obj_oriented_design.md
+      href: desc/obj_oriented_design.md
     - name: Машинное обучение для руководителей
-      href: courses/desc/ML_managers.md
+      href: desc/ML_managers.md
     - name: Design Patterns
-      href: courses/desc/design_patterns.md
+      href: desc/design_patterns.md
     - name: SRS Documents
-      href: courses/desc/SRSDocument.md
+      href: desc/SRSDocument.md
     - name: Теория игр. ВШЭ
-      href: courses/desc/GameTheoryHSE.md
+      href: desc/GameTheoryHSE.md
     - name: Управление IT-проектами и продуктом
-      href: courses/desc/ProductMng.md
+      href: desc/ProductMng.md
     - name: Full Business Analysis Study Guide
-      href: courses/desc/BA.md
+      href: desc/BA.md
     - name: Automate the Boring Stuff with Python
-      href: courses/desc/BoringStuff.md
+      href: desc/BoringStuff.md
