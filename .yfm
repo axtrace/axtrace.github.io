@@ -5,6 +5,7 @@ apply-presets: true
 varsPreset: external
 strict: false
 quiet: false
+langs: ['ru']
 
 vars:
   project-name: "AXTRACE Knowledge Base"
