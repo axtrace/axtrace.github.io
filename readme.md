@@ -45,15 +45,6 @@ npm run build
 2. Source: GitHub Actions
 3. После первого деплоя сайт будет доступен на `https://axtrace.github.io`
 
-## Редиректы
-
-Старые URL автоматически перенаправляются на новые через HTML редиректы:
-- `/books.html` → `/books/`
-- `/courses.html` → `/courses/`
-- `/health.html` → `/health/`
-- и т.д.
-
-Редиректы создаются автоматически при сборке через `scripts/create-redirects.js`
 
 ## Структура документации
 

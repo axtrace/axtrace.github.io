@@ -9,7 +9,7 @@
   },
   "scripts": {
     "start": "npm run build:docs && node scripts/serve.js",
-    "build:docs": "yfm build -i ./docs -o ./docs-html --allow-html --no-lint && node scripts/inject-metrika.js && node scripts/create-redirects.js",
+    "build:docs": "yfm build -i ./docs -o ./docs-html --allow-html --no-lint && node scripts/inject-metrika.js",
     "build": "npm run build:docs"
   },
   "dependencies": {
