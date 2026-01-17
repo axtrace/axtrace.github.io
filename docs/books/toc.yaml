@@ -1,5 +1,5 @@
-  - name: Книги
-    href: books/index.md
+  - title: Книги
+    href: index.md
     items:
       - name: Описание книг
         items:
