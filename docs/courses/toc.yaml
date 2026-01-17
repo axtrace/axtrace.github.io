@@ -1,4 +1,5 @@
 - title: Описание курсов
+  href: index.md
   items:
     - name: Коронавирусы и COVID-19
       href: desc/coronaviruses.md

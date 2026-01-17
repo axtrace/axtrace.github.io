@@ -1,11 +1,11 @@
-- title: Целиакия
+- name: Целиакия
   href: celiac/index.md
   items:
     - name: Диагностика
       href: celiac/diagnostic.md
     - name: Список продуктов с глютеном
       href: celiac/silent_gluten.md
-- title: Вакцинация
+- name: Вакцинация
   items:
     - name: От гриппа
       href: Vaccination/flu.md

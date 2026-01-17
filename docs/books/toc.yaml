@@ -1,4 +1,5 @@
 - title: Описание книг
+  href: index.md
   items:
     - name: Задача трёх тел
       href: desc/3body.md
