@@ -3,19 +3,19 @@ description: Личная база знаний
 navigation:
   logo:
     dark:
-      icon: 'https://storage.yandexcloud.net/highuncertainty/highuncertainty-logo.svg'
-      text: 'AXTRACE Knowledge Base'
+      icon: 'https://github.com/axtrace/axtrace.github.io/blob/e78fd7d52b6df54eaf0ceaae90b875eb7a7c8ec3/docs/_images/axtrace-kb.jpg'
+      text: ''
     light:
-      icon: 'https://storage.yandexcloud.net/highuncertainty/highuncertainty-logo.svg'
-      text: 'AXTRACE Knowledge Base'
+      icon: 'https://github.com/axtrace/axtrace.github.io/blob/e78fd7d52b6df54eaf0ceaae90b875eb7a7c8ec3/docs/_images/axtrace-kb.jpg'
+      text: ''
   header:
     leftItems:
-      - text: 'Обо мне'
+      - text: 'Книги'
         type: 'link'
-        url: './ru/about'
-      - text: 'Статьи и заметки'
+        url: './books/index'
+      - text: 'Курсы'
         type: 'link'
-        url: './ru/articles/index'
+        url: './courses/index'
     rightItems:
       - type: controls
 items:
