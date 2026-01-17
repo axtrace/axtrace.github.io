@@ -1,0 +1,27 @@
+{
+  "name": "axtrace-knowledge-base",
+  "version": "1.0.0",
+  "description": "AXTRACE knowledge base documentation",
+  "homepage": "https://axtrace.github.io",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:axtrace/axtrace.github.io.git"
+  },
+  "scripts": {
+    "start": "npm run build:docs && node scripts/serve.js",
+    "build:docs": "yfm --input docs --output docs-html && node scripts/inject-metrika.js && node scripts/create-redirects.js",
+    "build": "npm run build:docs"
+  },
+  "dependencies": {
+    "@diplodoc/cli": "^4.55.1",
+    "chokidar": "^3.5.3",
+    "express": "^4.18.2",
+    "glob": "^10.3.4",
+    "lodash": "^4.17.21",
+    "open": "^8.4.2",
+    "parse5": "^7.1.2",
+    "parse5-utils": "^2.0.0",
+    "serve-static": "^1.15.0"
+  }
+}
+

@@ -1,0 +1,65 @@
+  - name: Книги
+    href: books/index.md
+    items:
+      - name: Описание книг
+        items:
+          - name: Задача трёх тел
+            href: books/desc/3body.md
+          - name: Тёмный лес
+            href: books/desc/3body_dark_forest.md
+          - name: Вечная жизнь смерти
+            href: books/desc/3body_vechnaya_zhizn_smerty.md
+          - name: Митник. Искусство вторжения
+            href: books/desc/Mitnick_Intrusion.md
+          - name: Орлов. Джедайские техники конструктивного общения
+            href: books/desc/Jedi_constr.md
+          - name: Книга API
+            href: books/desc/api_book.md
+          - name: Вигерс. Разработка требований к программному обеспечению
+            href: books/desc/wiegers.md
+          - name: Эдвард Сноуден. Личное дело
+            href: books/desc/snowden_record.md
+          - name: Новые правила деловой переписки
+            href: books/desc/new_rules_email.md
+          - name: Невероятно - не факт
+            href: books/desc/Incredible.md
+          - name: Как лгать при помощи статистики
+            href: books/desc/stat_lie.md
+          - name: Как сделать, чтобы дети учились с удовольствием
+            href: books/desc/japan_studies.md
+          - name: Краткие вопросы на большие ответы
+            href: books/desc/brief_answers.md
+          - name: Максимальный репост
+            href: books/desc/max_repost.md
+          - name: Памяти детства
+            href: books/desc/pamyat_detstva.md
+          - name: Недоверчивые умы
+            href: books/desc/Suspicious_minds.md
+          - name: Вдохновленные
+            href: books/desc/inspired.md
+          - name: Ненасильственное общение
+            href: books/desc/NNC.md
+          - name: Гарри Поттер и методы рационального мышления
+            href: books/desc/hpmor.md
+          - name: Князь мира сего
+            href: books/desc/KnyazMiraSego.md
+          - name: Солнечное вещество
+            href: books/desc/sol_vestch.md
+          - name: Киберпреступник №1
+            href: books/desc/kiberprestupnik.md
+          - name: Мозг материален
+            href: books/desc/mozg_materail.md
+          - name: Narconomics
+            href: books/desc/narconomics.md
+          - name: Радуга Фейнмана
+            href: books/desc/raduga.md
+          - name: Эмоциональный интеллект ребенка
+            href: books/desc/EQ_child.md
+          - name: Вторжение. Краткая история русских хакеров
+            href: books/desc/russian_hackers.md
+          - name: Путь аналитика
+            href: books/desc/IT_analyst_way
+          - name: Байесовская статистика
+            href: books/desc/bayesian.md
+          - name: Эгоистичный ген
+            href: books/desc/selfish_gene.md

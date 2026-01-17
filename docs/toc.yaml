@@ -1,0 +1,39 @@
+title: AXTRACE Knowledge Base
+description: Личная база знаний
+
+items:
+  - name: Главная
+    href: index.md
+
+  - name: Книги
+    href: books/index.md
+    items:
+      - include: { mode: merge, path: ./books/toc.yaml }
+  
+  - name: Курсы
+    href: courses/index.md
+    items:
+      - include: { mode: merge, path: ./courses/toc.yaml }
+
+  - name: Медицинские знания
+    href: health/index.md
+    items:
+      - include: { mode: merge, path: ./health/toc.yaml }
+
+  - name: Вина из Парфенона
+    href: parfenon/index.md
+
+  - name: Книги из программы "Закладка"
+    href: zakladka/index.md
+
+  - name: Книги из выпусков Ещенепознер
+    href: yetnopozner_books/index.md
+
+  - name: Разные заметки
+    items:
+      - name: Эффект Пельтцмана
+        href: notes/Peltzman_effect.md
+
+  - name: Анекдоты
+    href: anecdots/index.md
+

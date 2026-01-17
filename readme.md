@@ -1,33 +1,63 @@
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
+# AXTRACE Knowledge Base
 
-   ym(54428956, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/54428956" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
+Личная база знаний на базе [Diplodoc](https://github.com/diplodoc-platform/documentation-template).
 
-# AXTRACE knowledge base
+## Структура
 
-Привет!
+- `docs/` - исходные markdown файлы документации
+- `docs-html/` - сгенерированные HTML файлы (не коммитятся в git)
+- `scripts/` - скрипты для сборки, инжекции Metrika и создания редиректов
 
-Это попытка систематизировать некоторые мои знания.
+## Разработка
 
-1. [Список прочитанных книг](/books)
-2. [Пройденные курсы](/courses)
-3. [Вина из Парфенона](/parfenon)
-4. [Книги из программы "Закладка" от ещенепознер](/zakladka)
-5. [Книги из выпусков #ещенепознер](/yetnopozner_books)
-6. [Медицинские знания](/health)
-    - [Целиакия](/health/celiac)
-      - [Диагностика](/health/celiac/diagnostic.md)
-      - [Список продуктов с глютеном](/health/celiac/silent_gluten.md)
-7. Случайные размышления()
-8. [Разные заметки](/notes)
+### Локальная разработка
+
+```bash
+# Установить зависимости
+npm install
+
+# Запустить dev сервер с hot reload
+npm start
+```
+
+Сервер будет доступен на `http://0.0.0.0:8000`
+
+### Сборка
+
+```bash
+npm run build
+```
+
+Это создаст HTML файлы в `docs-html/` и:
+- Инжектирует Yandex.Metrika во все страницы
+- Создаст редиректы для старых URL
+
+## Деплой
+
+Деплой происходит автоматически через GitHub Actions при пуше в ветку `main`.
+
+Также можно настроить GitHub Pages вручную:
+1. Settings → Pages
+2. Source: GitHub Actions
+3. После первого деплоя сайт будет доступен на `https://axtrace.github.io`
+
+## Редиректы
+
+Старые URL автоматически перенаправляются на новые через HTML редиректы:
+- `/books.html` → `/books/`
+- `/courses.html` → `/courses/`
+- `/health.html` → `/health/`
+- и т.д.
+
+Редиректы создаются автоматически при сборке через `scripts/create-redirects.js`
+
+## Структура документации
+
+- `/books` - список прочитанных книг
+- `/courses` - пройденные курсы
+- `/health` - медицинские знания
+- `/parfenon` - вина из Парфенона
+- `/zakladka` - книги из программы "Закладка"
+- `/yetnopozner_books` - книги из выпусков #ещенепознер
+- `/notes` - разные заметки
+- `/anecdots` - анекдоты
