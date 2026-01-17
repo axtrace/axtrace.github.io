@@ -17,7 +17,7 @@
 1. [Теория игр. ВШЭ](desc/GameTheoryHSE.md) - [ссылка на курс](https://www.coursera.org/learn/game-theory)
 2. [Управление IT-проектами и продуктом ](desc/ProductMng.md) - [ссылка на курс](https://youtu.be/bVJSwGJolSs)
 3. [Full Business Analysis Study Guide](desc/BA.md) - [ссылка на курс](https://www.udemy.com/course/business-analysis-study-guide/)
-4. [SRS Documents: Requirements and Diagrammatic Notations](desc/SRS_Documents.md) - [ссылка на курс](https://www.coursera.org/learn/srs-documents-requirements)
+4. [SRS Documents: Requirements and Diagrammatic Notations](desc/SRSDocument.md) - [ссылка на курс](https://www.coursera.org/learn/srs-documents-requirements)
 
 ## 2018
 1. [Automate the Boring Stuff with Python Programming](desc/BoringStuff.md) - [ссылка на курс](https://www.udemy.com/automate/)

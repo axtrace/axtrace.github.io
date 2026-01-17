@@ -72,6 +72,6 @@ metadata:
 
   Коллекция анекдотов
 
-  [Перейти к анекдотам](anecdots/index.md)
+  [Перейти к анекдотам](anecdots/anecdotes.md)
 
 {% endlist %}
