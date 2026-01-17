@@ -3,11 +3,11 @@ description: Личная база знаний
 navigation:
   logo:
     dark:
-      icon: 'https://github.com/axtrace/axtrace.github.io/blob/e78fd7d52b6df54eaf0ceaae90b875eb7a7c8ec3/docs/_images/axtrace-kb.jpg'
-      text: ''
+      icon: 'https://storage.yandexcloud.net/axtrace.github.io/axtrace-kb.jpg'
+      text: 'AXTRACE Knowledge Base'
     light:
-      icon: 'https://github.com/axtrace/axtrace.github.io/blob/e78fd7d52b6df54eaf0ceaae90b875eb7a7c8ec3/docs/_images/axtrace-kb.jpg'
-      text: ''
+      icon: 'https://storage.yandexcloud.net/axtrace.github.io/axtrace-kb.jpg'
+      text: 'AXTRACE Knowledge Base'
   header:
     leftItems:
       - text: 'Книги'

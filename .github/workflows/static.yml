@@ -38,11 +38,9 @@ jobs:
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Build docs with Diplodoc
-        run: npx -y @diplodoc/cli@latest -i ./docs -o ./docs-html --allow-html --no-lint
-      - name: Install dependencies for post-processing
-        run: npm ci
-      - name: Inject Yandex.Metrika
-        run: node scripts/inject-metrika.js
+        run: npx -y @diplodoc/cli@latest -i ./docs -o ./docs-html --allow-html --apply-presets --vars-preset external --no-lint
+        env:
+          YFM_METRIKA: 54428956
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

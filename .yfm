@@ -1,12 +1,15 @@
 input: ./docs
 output: ./docs-html
 allowHTML: true
+apply-presets: true
+varsPreset: external
 strict: false
 quiet: false
 
 vars:
   project-name: "AXTRACE Knowledge Base"
   site-url: "https://axtrace.github.io"
+  metrika: 54428956
 
 lint:
   enabled: false

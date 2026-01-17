@@ -29,10 +29,9 @@ npm start
 npm run build
 ```
 
-Сборка выполняется через Diplodoc CLI и включает:
-1. Компиляцию markdown в HTML через `yfm build`
-2. Инжекцию Yandex.Metrika во все страницы
-3. Создание редиректов для старых URL
+Сборка выполняется через Diplodoc CLI с автоматической интеграцией Yandex.Metrika через встроенную поддержку контентной аналитики.
+
+Подробнее о настройке метрики: [docs/METRIKA_SETUP.md](docs/METRIKA_SETUP.md)
 
 ## Деплой
 

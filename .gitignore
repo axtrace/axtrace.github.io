@@ -5,3 +5,4 @@ node_modules/
 docs-html/
 *.log
 .DS_Store
+MIGRATION_TO_DIPLODOC_METRIKA.md
