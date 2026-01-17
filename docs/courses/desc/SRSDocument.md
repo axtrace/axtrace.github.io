@@ -3,8 +3,9 @@ description: "Обзор курса «SRS Documents: Requirements and Diagrammat
 keywords: "SRS, требования, software requirements, диаграммы, misuse cases, системный анализ, обзор курса"
 ---
 
-SRS Documents: Requirements and Diagrammatic Notations
-https://www.coursera.org/learn/srs-documents-requirements
+# SRS Documents: Requirements and Diagrammatic Notations
+
+<https://www.coursera.org/learn/srs-documents-requirements>
 
 Курс, имхо, совершенно начального уровня. Для джунов пойдет. Я для себя почти ничего нового не открыл.
 
