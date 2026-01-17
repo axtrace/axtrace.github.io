@@ -1,18 +1,4 @@
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-   ym(54428956, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/54428956" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
 
 Собираю на одной странице книги из всех выпусков [«Закладки»](https://www.youtube.com/watch?v=cssTaTNOYRA&list=PLKQxqJVnCqzE6m06JQwfS7gknUPeND2YL) от ещёнепознер
 
@@ -32,7 +18,7 @@
 1. «[История об искусстве Флоренции. Город и миф](https://bit.ly/2zbV5Y1)». С. Незерсоул
 
 ### [Закладка #23](https://youtu.be/Fxl7rJUcIK4): синдром Стендаля, художники Лимонова, вдова Сахарова и воссозданный Рим
-1. «[Рим, Неаполь и Флоренция](https://bit.ly/39KoEwC)». Стендаль 
+1. «[Рим, Неаполь и Флоренция](https://bit.ly/39KoEwC)». Стендаль
 1. «[Мои живописцы](https://bit.ly/2XazzNm)». Э. Лимонов
 1. «[Воссозданный Рим](https://bit.ly/2XcUf7x)». И. Кувшинская
 1. «[Сахаров. Кефир надо греть. История любви, расказанная Еленой Боннэр Юрию Росту](https://bit.ly/39PZ09r)». Е. Боннэр, Ю. Рост
@@ -98,12 +84,12 @@
 ### [Закладка #14](https://youtu.be/wSe22mwNt34): лучшая биография Баха, Япония и Ханеке, Хармс для детей
 1. «[Парижане о себе и своем городе](http://bit.ly/2PpcSkK)». В. Мильчина
 2. «[Россия в 1839 году](http://bit.ly/32XTqQ4)». А. Кюстин
-3. «[Импрессионизм. Основоположники и последователи](http://bit.ly/2MUmVwB)». 
-4. «[Надзирать и наказывать. Рождение тюрьмы](http://bit.ly/369cz3l)». М. Фуко 
-5. «[Госпожа Бовари. Саламбо](http://bit.ly/2Pux6cV)» Г. Флобер 
+3. «[Импрессионизм. Основоположники и последователи](http://bit.ly/2MUmVwB)».
+4. «[Надзирать и наказывать. Рождение тюрьмы](http://bit.ly/369cz3l)». М. Фуко
+5. «[Госпожа Бовари. Саламбо](http://bit.ly/2Pux6cV)» Г. Флобер
 
 ### [Закладка #13](https://youtu.be/ZtKYne-PemQ): лучшая биография Баха, Япония и Ханеке, Хармс для детей
-1. «[Музыка в Небесном граде. Портрет Иоганна Себастьяна Баха](http://bit.ly/2B9NPK2)». Д. Э. Гардинер 
+1. «[Музыка в Небесном граде. Портрет Иоганна Себастьяна Баха](http://bit.ly/2B9NPK2)». Д. Э. Гардинер
 2. «[Потерянная Япония. Как исчезает культура великой империи](http://bit.ly/2J1ZxLh)». А. Керр
 3. «[Михаэль Ханеке: кино как катарсис](http://bit.ly/2BaAaCA)».  М. Ханеке
 4. «[Записки Хендрика Груна из амстердамской богадельни](http://bit.ly/2Meo1CE)». Х. Грун
@@ -118,7 +104,7 @@
 
 ### [Закладка #11](https://youtu.be/cmLk-oNJp4M): русские сокровища, голливудский обком и лучшая книга о Древней Греции
 1. «[Красный нуар Голливуда. Часть I. Голливудский обком](http://bit.ly/2lVldzG)». М. Трофименков
-2. «[Занимательная Греция](http://bit.ly/2kiKrI1)». М. Гаспаров 
+2. «[Занимательная Греция](http://bit.ly/2kiKrI1)». М. Гаспаров
 3. «[Не все умеют падать](http://bit.ly/2FbjvS7)». Т. Теллеген
 4. «[Полынные сказки](http://bit.ly/2maC1Ts)». Ю. Коваль
 5. «[Русские сокровища британской короны](http://bit.ly/2mcUjn3)». К. Лито, С. Паттерсон

@@ -1,20 +1,6 @@
 # Вино из Парфенона (18+)
 
-<!-- Yandex.Metrika counter -->
-<script type="text/javascript" >
-   (function(m,e,t,r,i,k,a){m[i]=m[i]||function(){(m[i].a=m[i].a||[]).push(arguments)};
-   m[i].l=1*new Date();k=e.createElement(t),a=e.getElementsByTagName(t)[0],k.async=1,k.src=r,a.parentNode.insertBefore(k,a)})
-   (window, document, "script", "https://mc.yandex.ru/metrika/tag.js", "ym");
 
-   ym(54428956, "init", {
-        clickmap:true,
-        trackLinks:true,
-        accurateTrackBounce:true,
-        webvisor:true
-   });
-</script>
-<noscript><div><img src="https://mc.yandex.ru/watch/54428956" style="position:absolute; left:-9999px;" alt="" /></div></noscript>
-<!-- /Yandex.Metrika counter -->
 
 ![](_images/parfenon/img/Parfenon.png)
 
@@ -71,16 +57,16 @@
     1. Tenuta delle Terre Nere, Etna Rosso DOC, 2015 + ссылка на [vivino](https://www.vivino.com/tenuta-delle-terre-nere-etna-rosso/w/1225467)
     2. Benanti, Etna Rosso DOC, 2015 + ссылка на [vivino](https://www.vivino.com/benanti-etna-rosso/w/1758784)
     3. Graci Etna Rosso, 2016 + ссылка на [vivino](https://www.vivino.com/graci-etna-rosso/w/75659)
-    4. Etna Rosso DOC Arcuria, 2015 + ссылка на [vivino](https://www.vivino.com/graci-arcuria-etna-rosso/w/2134507)  
+    4. Etna Rosso DOC Arcuria, 2015 + ссылка на [vivino](https://www.vivino.com/graci-arcuria-etna-rosso/w/2134507)
 
-30. _  
+30. _
     1. Chanterêves Bourgogne Pinot Noir, 2016 + ссылка на [vivino](https://www.vivino.com/chantereves-bourgogne-pinot-noir/w/2922322?year=2016)
     2. Girolamo Russo 'San Lorenzo' Etna Rosso, 2015 + ссылка на [vivino](https://www.vivino.com/girolamo-russo-san-lorenzo-etna-rosso/w/1217639?year=2015)
     3. Azienda Agricola Ciro Biondi Cisterna Fuori Etna DOC + ссылка на похожее на [vivino](https://www.vivino.com/azienda-agricola-sergio-arcuri-piu-vite-riserva/w/5529312)
     4. Benanti, «Serra della Contessa», Etna DOC Rosso, 2011 + ссылка на [vivino](https://www.vivino.com/benanti-serra-della-contessa-etna-rosso/w/15297)
 
-31. Poderi Boscarelli Vino Nobile di Montepulciano 2015 + ссылка на похожее на [vivino](https://www.vivino.com/podere-boscarelli-vino-nobile-di-montepulciano-costa-grande/w/6835233?year=2015)  
-32.  _  
+31. Poderi Boscarelli Vino Nobile di Montepulciano 2015 + ссылка на похожее на [vivino](https://www.vivino.com/podere-boscarelli-vino-nobile-di-montepulciano-costa-grande/w/6835233?year=2015)
+32.  _
     1. Ronco Severo Ribolla Gialla delle Venezie IGT, 2016 + ссылка на [vivino](https://www.vivino.com/ronco-severo-ribolla-gialla/w/3566460)
     2. Vigneto Altura Ansonaco dell' Isola del Giglio Toscana + ссылка на [vivino](https://www.vivino.com/vigneti-st-giorgia-serrone-vino-ansonaco-dell-isola-del-giglio-white-wine-v-jm4cj/w/5606418)
 33. Pieropan, Amarone della Valpolicella DOCG, 2013 + ссылка на [vivino](https://www.vivino.com/pieropan-amarone-della-valpolicella/w/4398766)
@@ -92,6 +78,6 @@
 37. Chateau La Grolet, Cotes de Bourg AOC + ссылка на [vivino](https://www.vivino.com/la-grolet-cotes-de-bourg/w/1154419)
 38.  _
 39. Tenuta di Aglaea "Contrada Santo Spirito" Etna DOC, 2015 + ссылка на [vivino](https://www.vivino.com/aglaea-contrada-santo-spirito-etna/w/6033472?year=2015)
-    
+
     ---
     [Главная страница](https://axtrace.github.io)
