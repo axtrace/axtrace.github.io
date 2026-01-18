@@ -23,7 +23,7 @@ keywords: ["системный дизайн", "Алекс Сюй", "архите
 
 # Цитаты
 
-![](../../_images/books/desc/img/System design - img1.png)
+![](../../_images/books/desc/img/System_design_-_img1.png)
 
 Выделяем 4 этапа
 
@@ -63,12 +63,12 @@ keywords: ["системный дизайн", "Алекс Сюй", "архите
 - Решение проблемы уникальных IDs
 
 
-![](../../_images/books/desc/img/System design - img2.png)
+![](../../_images/books/desc/img/System_design_-_img2.png)
 
 Поисковые саджесты
 
-![](../../_images/books/desc/img/System design - img3.png)
+![](../../_images/books/desc/img/System_design_-_img3.png)
 
 Протоколы
 
-![](../../_images/books/desc/img/System design - img4.png)
+![](../../_images/books/desc/img/System_design_-_img4.png)
