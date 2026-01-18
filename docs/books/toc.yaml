@@ -1,6 +1,8 @@
 title: Книги
 href: overview.md
 items:
+  - name: Обзор книг
+    href: overview.md
   - name: 0,05. Доказательная медицина
     href: desc/Zero_Point_Zero_Five_Evidence_Based_Medicine.md
   - name: A значит Anonymos
@@ -27,6 +29,7 @@ items:
     href: desc/Pearls_of_Development.md
   - name: Задача трёх тел (трилогия)
     expanded: true
+    labeled: true
     items:
       - name: Задача трёх тел
         href: desc/3body.md
@@ -60,12 +63,16 @@ items:
     href: desc/Mom_I_am_Teamlead.md
   - name: Мемы. Научный взгляд на феномен поп-культуры, захвативший мир
     href: desc/Memes_Scientific_View.md
-  - name: Митник. Искусство быть невидимым
-    href: desc/Art_of_Invisibility.md
-  - name: Митник. Искусство вторжения
-    href: desc/Mitnick_Intrusion.md
-  - name: Митник. Призрак в сети
-    href: desc/Ghost_in_the_Wires.md
+  - name: Митник
+    expanded: true
+    labeled: true
+    items:
+      - name: Искусство вторжения
+        href: desc/Mitnick_Intrusion.md
+      - name: Искусство быть невидимым
+        href: desc/Art_of_Invisibility.md
+      - name: Призрак в сети
+        href: desc/Ghost_in_the_Wires.md
   - name: Мозг материален
     href: desc/mozg_materail.md
   - name: Мы
