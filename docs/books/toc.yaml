@@ -38,6 +38,8 @@ items:
         href: desc/3body_dark_forest.md
       - name: Вечная жизнь смерти
         href: desc/3body_vechnaya_zhizn_smerty.md
+  - name: Заповедник (Довлатов)
+    href: desc/zapovednik.md
   - name: Идеальный программист
     href: desc/Clean_Code.md
   - name: Как лгать при помощи статистики
