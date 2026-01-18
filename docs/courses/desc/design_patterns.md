@@ -5,9 +5,9 @@ keywords: "design patterns, паттерны проектирования, Gang 
 
 ## Design Patterns
 
-https://www.coursera.org/learn/design-patterns
+<https://www.coursera.org/learn/design-patterns>
 
-Курс про паттерны проектирования ПО. 1-в-1 повторяет "Банду 4х" (Краткий Online-конспект есть тут: https://bool.dev/blog/detail/gof-design-patterns)
+Курс про паттерны проектирования ПО. 1-в-1 повторяет "Банду 4х" (Краткий Online-конспект есть тут: <https://bool.dev/blog/detail/gof-design-patterns>)
 
 В целом прикольно, полезно что есть хоть какие-то практические задания.
 Для себя отметил, что примерно теперь представляю, какие паттерны бывают и хотя бы соритентируюсь, где их искать.
