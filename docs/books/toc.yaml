@@ -1,14 +1,30 @@
 title: Книги
 href: overview.md
 items:
+  - name: 0,05. Доказательная медицина
+    href: desc/Zero_Point_Zero_Five_Evidence_Based_Medicine.md
+  - name: A значит Anonymos
+    href: desc/anonimus.md
   - name: Байесовская статистика
     href: desc/bayesian.md
+  - name: Байки для оруженосца
+    href: desc/Stories_for_Squire.md
+  - name: Балдеющие от адреналина и зомбированные шаблонами
+    href: desc/adrenalin.md
+  - name: Большая книга манипуляций
+    href: desc/Big_Book_of_Manipulations.md
   - name: Вдохновленные
     href: desc/inspired.md
   - name: Вторжение. Краткая история русских хакеров
     href: desc/russian_hackers.md
+  - name: Выбор
+    href: desc/The_Choice.md
   - name: Гарри Поттер и методы рационального мышления
     href: desc/hpmor.md
+  - name: Дьявол играет нами, когда мы мыслим неточно
+    href: desc/Devil_Plays_When_We_Think_Inaccurately.md
+  - name: Жемчужины разработки
+    href: desc/Pearls_of_Development.md
   - name: Задача трёх тел (трилогия)
     expanded: true
     items:
@@ -18,6 +34,10 @@ items:
         href: desc/3body_dark_forest.md
       - name: Вечная жизнь смерти
         href: desc/3body_vechnaya_zhizn_smerty.md
+  - name: Идеальный программист
+    href: desc/Clean_Code.md
+  - name: Искусство быть невидимым
+    href: desc/Art_of_Invisibility.md
   - name: Как лгать при помощи статистики
     href: desc/stat_lie.md
   - name: Как сделать, чтобы дети учились с удовольствием
@@ -28,14 +48,26 @@ items:
     href: desc/api_book.md
   - name: Князь мира сего
     href: desc/KnyazMiraSego.md
+  - name: Колыбель для кошки
+    href: desc/Cradle_for_the_Cat.md
   - name: Краткие вопросы на большие ответы
     href: desc/brief_answers.md
+  - name: Kubernetes for Kids. Путеводитель для детей
+    href: desc/Kubernetes for Kids.md
+  - name: Ловушка счастья
+    href: desc/Happiness_Trap.md
   - name: Максимальный репост
     href: desc/max_repost.md
+  - name: Мама, я тимлид
+    href: desc/Mom_I_am_Teamlead.md
+  - name: Мемы. Научный взгляд на феномен поп-культуры, захвативший мир
+    href: desc/Memes_Scientific_View.md
   - name: Митник. Искусство вторжения
     href: desc/Mitnick_Intrusion.md
   - name: Мозг материален
     href: desc/mozg_materail.md
+  - name: Мы
+    href: desc/We_Zamyatin.md
   - name: Narconomics
     href: desc/narconomics.md
   - name: Недоверчивые умы
@@ -50,12 +82,30 @@ items:
     href: desc/Jedi_constr.md
   - name: Памяти детства
     href: desc/pamyat_detstva.md
+  - name: Призрак в сети
+    href: desc/Ghost_in_the_Wires.md
+  - name: Применение объектного моделирования с использованием UML
+    href: desc/UML_Object_Modeling.md
   - name: Путь аналитика
     href: desc/IT_analyst_way.md
   - name: Радуга Фейнмана
     href: desc/raduga.md
+  - name: Родители в игре
+    href: desc/Parents_in_the_Game.md
   - name: Солнечное вещество
     href: desc/sol_vestch.md
+  - name: Спроси маму
+    href: desc/Ask_Mom.md
+  - name: System design. Подготовка к сложному интервью
+    href: desc/system design.md
+  - name: Тайны сороковки
+    href: desc/Secrets_of_Forty.md
+  - name: UML 2 и Унифицированный процесс
+    href: desc/UML_2_Unified_Process.md
+  - name: Уставшие
+    href: desc/Tired.md
+  - name: Чек-лист. Система предотвращения ошибок
+    href: desc/Checklist_Error_Prevention.md
   - name: Эгоистичный ген
     href: desc/selfish_gene.md
   - name: Эдвард Сноуден. Личное дело
