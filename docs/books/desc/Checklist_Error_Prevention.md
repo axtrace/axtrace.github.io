@@ -7,7 +7,7 @@ keywords: ["чек-листы", "ошибки", "медицина", "Атул Г
 # Чек-лист. Как избежать глупых ошибок, ведущих к фатальным последствиям
 **Автор:** Атул Гаванде
 
-![](../../_images/books/desc/img/Checklist_Error_Prevention - img 1.png)
+![](../../_images/books/desc/img/Checklist_Error_Prevention_-_img_1.png)
 
 # Перед прочтением
 
@@ -94,4 +94,4 @@ keywords: ["чек-листы", "ошибки", "медицина", "Атул Г
 
 ## Чек-лист для разработки чек-листов
 
-![](../../_images/books/desc/img/Checklist_Error_Prevention - img 2.png)
+![](../../_images/books/desc/img/Checklist_Error_Prevention_-_img_2.png)

@@ -31,4 +31,4 @@ Date: 2024-01-01
 
 
 
-![](../../_images/books/desc/img/anonimus - img 1.jpeg)
+![](../../_images/books/desc/img/anonimus_-_img_1.jpeg)
