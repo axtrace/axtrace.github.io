@@ -36,8 +36,6 @@ items:
         href: desc/3body_vechnaya_zhizn_smerty.md
   - name: Идеальный программист
     href: desc/Clean_Code.md
-  - name: Искусство быть невидимым
-    href: desc/Art_of_Invisibility.md
   - name: Как лгать при помощи статистики
     href: desc/stat_lie.md
   - name: Как сделать, чтобы дети учились с удовольствием
@@ -62,8 +60,12 @@ items:
     href: desc/Mom_I_am_Teamlead.md
   - name: Мемы. Научный взгляд на феномен поп-культуры, захвативший мир
     href: desc/Memes_Scientific_View.md
+  - name: Митник. Искусство быть невидимым
+    href: desc/Art_of_Invisibility.md
   - name: Митник. Искусство вторжения
     href: desc/Mitnick_Intrusion.md
+  - name: Митник. Призрак в сети
+    href: desc/Ghost_in_the_Wires.md
   - name: Мозг материален
     href: desc/mozg_materail.md
   - name: Мы
@@ -82,8 +84,6 @@ items:
     href: desc/Jedi_constr.md
   - name: Памяти детства
     href: desc/pamyat_detstva.md
-  - name: Призрак в сети
-    href: desc/Ghost_in_the_Wires.md
   - name: Применение объектного моделирования с использованием UML
     href: desc/UML_Object_Modeling.md
   - name: Путь аналитика
