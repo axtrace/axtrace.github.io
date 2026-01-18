@@ -10,6 +10,8 @@ langs: ['ru']
 vars:
   project-name: "AXTRACE Knowledge Base"
   site-url: "https://axtrace.github.io"
+
+docs-viewer:
   metrika: 54428956
 
 lint:
