@@ -21,9 +21,9 @@ keywords: ["системный дизайн", "Алекс Сюй", "архите
 # После прочтения
 
 
-# цитаты
+# Цитаты
 
-![[System design - img1.png|System design - img1.png]]
+![](../../_images/books/desc/img/System design - img1.png)
 
 Выделяем 4 этапа
 
@@ -44,17 +44,16 @@ keywords: ["системный дизайн", "Алекс Сюй", "архите
     5. Масштабирование. Например, с 1 млн юзеров до 10 млн
 
 
+{% note tip "" %}
 
-> 
-> Не рассуждайте молча
+Не рассуждайте молча
 
+{% endnote %}
 
 
 В целом книга очень полезная, структурирует и дополняет знания.
 
 Прикрепляю свои заметки рукописные, где выделил много интересных вещей.
-
-
 
 Из запомнившегося:
 
@@ -64,13 +63,12 @@ keywords: ["системный дизайн", "Алекс Сюй", "архите
 - Решение проблемы уникальных IDs
 
 
-
-![[System design - img2.png|System design - img2.png]]
+![](../../_images/books/desc/img/System design - img2.png)
 
 Поисковые саджесты
 
-![[System design - img3.png|System design - img3.png]]
+![](../../_images/books/desc/img/System design - img3.png)
 
 Протоколы
 
-![[System design - img4.png|System design - img4.png]]
+![](../../_images/books/desc/img/System design - img4.png)
