@@ -18,6 +18,7 @@ navigation:
         url: './courses/index'
     rightItems:
       - type: controls
+      
 items:
   - name: Главная
     href: index.md
@@ -25,6 +26,13 @@ items:
   - name: Книги
     href: books/overview.md
     items:
+
+      - name: Список книг из программы "Закладка"
+        href: zakladka/index.md
+
+      - name: Список книг из выпусков "Ещёнепознер"
+        href: yetnopozner_books/index.md
+
       - include: { mode: link, path: ./books/toc.yaml }
 
   - name: Курсы
@@ -32,24 +40,18 @@ items:
     items:
       - include: { mode: link, path: ./courses/toc.yaml }
 
-  - name: Медицинские знания
-    href: health/overview.md
-    items:
-      - include: { mode: link, path: ./health/toc.yaml }
-
-  - name: Вина из Парфенона
-    href: parfenon/index.md
-
-  - name: Книги из программы "Закладка"
-    href: zakladka/index.md
-
-  - name: Книги из выпусков Ещенепознер
-    href: yetnopozner_books/index.md
-
   - name: Разные заметки
     items:
       - name: Эффект Пельтцмана
         href: notes/Peltzman_effect.md
+
+      - name: Медицинские знания
+        href: health/overview.md
+        items:
+          - include: { mode: link, path: ./health/toc.yaml }
+
+      - name: Список вин из Парфенона
+        href: parfenon/index.md
 
   - name: Анекдоты
     href: anecdots/anecdotes.md

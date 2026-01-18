@@ -17,6 +17,8 @@ items:
     href: desc/Big_Book_of_Manipulations.md
   - name: Вдохновленные
     href: desc/inspired.md
+  - name: Вигерс. Разработка требований к программному обеспечению
+    href: desc/wiegers.md
   - name: Вторжение. Краткая история русских хакеров
     href: desc/russian_hackers.md
   - name: Выбор
@@ -29,7 +31,6 @@ items:
     href: desc/Pearls_of_Development.md
   - name: Задача трёх тел (трилогия)
     expanded: true
-    labeled: true
     items:
       - name: Задача трёх тел
         href: desc/3body.md
@@ -65,7 +66,6 @@ items:
     href: desc/Memes_Scientific_View.md
   - name: Митник
     expanded: true
-    labeled: true
     items:
       - name: Искусство вторжения
         href: desc/Mitnick_Intrusion.md
@@ -119,5 +119,3 @@ items:
     href: desc/snowden_record.md
   - name: Эмоциональный интеллект ребенка
     href: desc/EQ_child.md
-  - name: Вигерс. Разработка требований к программному обеспечению
-    href: desc/wiegers.md
