@@ -1,6 +1,5 @@
 const fs = require('fs');
 const path = require('path');
-const glob = require('glob');
 const {parse, serialize} = require('parse5');
 const utils = require('parse5-utils');
 
@@ -24,9 +23,9 @@ function injectMetrika(html) {
   if (html.includes('yandex.ru/metrika') || html.includes('ym(54428956')) {
     return html;
   }
-  
+
   const parsed = parse(html);
-  
+
   function traverse(node) {
     if (node.nodeName === 'head') {
       // Создаем script узел для Metrika
@@ -37,7 +36,7 @@ function injectMetrika(html) {
       utils.append(scriptNode, scriptText);
       utils.append(node, scriptNode);
     }
-    
+
     if (node.nodeName === 'body') {
       // Добавляем noscript в начало body
       const noscript = utils.createNode('noscript');
@@ -55,39 +54,61 @@ function injectMetrika(html) {
         utils.append(node, noscript);
       }
     }
-    
+
     if (node.childNodes) {
       node.childNodes.forEach(child => traverse(child));
     }
   }
-  
+
   traverse(parsed);
-  
+
   return serialize(parsed);
+}
+
+// Рекурсивная функция для поиска HTML файлов
+function findHtmlFiles(dir, fileList = []) {
+  const files = fs.readdirSync(dir);
+
+  for (const file of files) {
+    const filePath = path.join(dir, file);
+    const stat = fs.statSync(filePath);
+
+    if (stat.isDirectory()) {
+      findHtmlFiles(filePath, fileList);
+    } else if (file.endsWith('.html')) {
+      fileList.push(filePath);
+    }
+  }
+
+  return fileList;
 }
 
 // Инжектируем Metrika во все HTML файлы
 const outputDir = 'docs-html';
-const pattern = path.join(outputDir, '**', '*.html');
-const htmlFiles = glob.globSync(pattern, {ignore: 'node_modules/**'});
 
-htmlFiles.forEach(filePath => {
-  try {
-    const html = fs.readFileSync(filePath, 'utf8');
-    
-    // Проверяем, не добавлен ли уже код Metrika
-    if (html.includes('yandex.ru/metrika')) {
-      console.log(`Metrika already present in ${filePath}`);
-      return;
+if (fs.existsSync(outputDir)) {
+  const htmlFiles = findHtmlFiles(outputDir);
+
+  htmlFiles.forEach(filePath => {
+    try {
+      const html = fs.readFileSync(filePath, 'utf8');
+
+      // Проверяем, не добавлен ли уже код Metrika
+      if (html.includes('yandex.ru/metrika')) {
+        console.log(`Metrika already present in ${filePath}`);
+        return;
+      }
+
+      const transformed = injectMetrika(html);
+      fs.writeFileSync(filePath, transformed, {encoding: 'utf8'});
+      console.log(`Injected Metrika into ${filePath}`);
+    } catch (err) {
+      console.error(`Error processing ${filePath}:`, err);
     }
-    
-    const transformed = injectMetrika(html);
-    fs.writeFileSync(filePath, transformed, {encoding: 'utf8'});
-    console.log(`Injected Metrika into ${filePath}`);
-  } catch (err) {
-    console.error(`Error processing ${filePath}:`, err);
-  }
-});
+  });
 
-console.log('Metrika injection completed!');
-
+  console.log('Metrika injection completed!');
+} else {
+  console.error('Output directory not found:', outputDir);
+  process.exit(1);
+}
