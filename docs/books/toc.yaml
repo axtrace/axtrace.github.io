@@ -3,26 +3,32 @@ href: overview.md
 items:
   - name: Обзор книг
     href: overview.md
-  - name: 0,05. Доказательная медицина
-    href: desc/Zero_Point_Zero_Five_Evidence_Based_Medicine.md
   - name: A значит Anonymos
     href: desc/anonimus.md
+  - name: Big Book of Manipulations
+    href: desc/Big_Book_of_Manipulations.md
+  - name: Kubernetes for Kids. Путеводитель для детей
+    href: desc/Kubernetes for Kids.md
+  - name: Narconomics
+    href: desc/narconomics.md
+  - name: System design. Подготовка к сложному интервью
+    href: desc/system design.md
+  - name: The Choice
+    href: desc/The_Choice.md
+  - name: 0,05. Доказательная медицина
+    href: desc/Zero_Point_Zero_Five_Evidence_Based_Medicine.md
   - name: Байесовская статистика
     href: desc/bayesian.md
   - name: Байки для оруженосца
     href: desc/Stories_for_Squire.md
   - name: Балдеющие от адреналина и зомбированные шаблонами
     href: desc/adrenalin.md
-  - name: Большая книга манипуляций
-    href: desc/Big_Book_of_Manipulations.md
   - name: Вдохновленные
     href: desc/inspired.md
-  - name: Вигерс. Разработка требований к программному обеспечению
+  - name: Вигерс. Разработка требований к программного обеспечения
     href: desc/wiegers.md
   - name: Вторжение. Краткая история русских хакеров
     href: desc/russian_hackers.md
-  - name: Выбор
-    href: desc/The_Choice.md
   - name: Гарри Поттер и методы рационального мышления
     href: desc/hpmor.md
   - name: Дьявол играет нами, когда мы мыслим неточно
@@ -56,8 +62,6 @@ items:
     href: desc/Cradle_for_the_Cat.md
   - name: Краткие вопросы на большие ответы
     href: desc/brief_answers.md
-  - name: Kubernetes for Kids. Путеводитель для детей
-    href: desc/Kubernetes for Kids.md
   - name: Ловушка счастья
     href: desc/Happiness_Trap.md
   - name: Максимальный репост
@@ -79,8 +83,6 @@ items:
     href: desc/mozg_materail.md
   - name: Мы
     href: desc/We_Zamyatin.md
-  - name: Narconomics
-    href: desc/narconomics.md
   - name: Недоверчивые умы
     href: desc/Suspicious_minds.md
   - name: Невероятно - не факт
@@ -105,8 +107,6 @@ items:
     href: desc/sol_vestch.md
   - name: Спроси маму
     href: desc/Ask_Mom.md
-  - name: System design. Подготовка к сложному интервью
-    href: desc/system design.md
   - name: Тайны сороковки
     href: desc/Secrets_of_Forty.md
   - name: UML 2 и Унифицированный процесс
