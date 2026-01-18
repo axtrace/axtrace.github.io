@@ -13,7 +13,7 @@ vars:
 
 docs-viewer:
   metrika: 54428956
-  favicon-src: "https://storage.yandexcloud.net/axtrace.github.io/axtrace-kb.jpg"
+  favicon-src: "https://storage.yandexcloud.net/axtrace.github.io/axtrace-favicon.png"
 
 lint:
   enabled: false
