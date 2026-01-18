@@ -27,12 +27,6 @@ items:
     href: books/overview.md
     items:
 
-      - name: Список книг из программы "Закладка"
-        href: zakladka/index.md
-
-      - name: Список книг из выпусков "Ещёнепознер"
-        href: yetnopozner_books/index.md
-
       - include: { mode: link, path: ./books/toc.yaml }
 
   - name: Курсы
@@ -42,6 +36,16 @@ items:
 
   - name: Разные заметки
     items:
+
+      - name: Список книг из программы "Закладка"
+        href: zakladka/index.md
+
+      - name: Список книг из выпусков "Ещёнепознер"
+        href: yetnopozner_books/index.md
+
+      - name: Список вин из Парфенона
+        href: parfenon/index.md
+
       - name: Эффект Пельтцмана
         href: notes/Peltzman_effect.md
 
@@ -49,9 +53,6 @@ items:
         href: health/overview.md
         items:
           - include: { mode: link, path: ./health/toc.yaml }
-
-      - name: Список вин из Парфенона
-        href: parfenon/index.md
 
   - name: Анекдоты
     href: anecdots/anecdotes.md
