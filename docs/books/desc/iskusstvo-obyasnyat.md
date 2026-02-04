@@ -25,4 +25,4 @@ keywords: ["коммуникация", "объяснение", "презента
 
 ---
 
-![](../../_images/books/desc/img/iskusstvo-obyasnyat_img1.jpg)
+![](../../_images/books/desc/img/iskusstvo-obyasnyat_-_img1.jpg)
