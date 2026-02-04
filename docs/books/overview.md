@@ -6,6 +6,9 @@
 
 # Книги, которые я прочитал
 
+## 2026
+1. [Сторителлинг и ТРИЗ](desc/storytelling-and-triz.md)
+
 ## 2025
 1. [Призрак в сети](desc/Ghost_in_the_Wires.md)
 2. [Родители в игре](desc/Parents_in_the_Game.md)
