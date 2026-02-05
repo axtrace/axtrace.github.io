@@ -7,7 +7,9 @@
 # Книги, которые я прочитал
 
 ## 2026
-1. [Сторителлинг и ТРИЗ](desc/storytelling-and-triz.md)
+1. [Крейцерова соната](desc/Kreutzer_Sonata.md)
+2. [Сторителлинг и ТРИЗ](desc/storytelling-and-triz.md)
+3. [Большая книга про работу](desc/Big_Book_about_job.md)
 
 ## 2025
 1. [Призрак в сети](desc/Ghost_in_the_Wires.md)
