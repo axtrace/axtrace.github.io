@@ -1,6 +1,9 @@
 
 
 # Курсы, которые я прослушал или прошел
+## 2026
+1. [Критическое мышление](desc/critical-thinking.md) - [ссылка на курс](https://practicum.yandex.ru/critical-thinking/) - **в процессе**
+
 ## 2021
 1. [Коронавирусы и COVID-19: первые итоги](desc/coronaviruses.md) - [ссылка на курс](https://www.coursera.org/learn/coronaviruses/)
 
