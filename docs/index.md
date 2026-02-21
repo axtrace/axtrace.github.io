@@ -22,21 +22,21 @@ metadata:
 
 - Книги
 
-  {% include [books](books/overview.md) %}
+  Список прочитанных книг с заметками и рецензиями
 
-  [Перейти к книгам](books/overview.md)
+  {% include [books](books/overview.md) %}
 
 - Курсы
 
-  {% include [courses](courses/overview.md) %}
+  Пройденные онлайн-курсы и образовательные программы
 
-  [Перейти к курсам](courses/overview.md)
+  {% include [courses](courses/overview.md) %}
 
 - Медицина
 
-  {% include [health](health/overview.md) %}
+  Информация о целиакии, вакцинации и других медицинских темах
 
-  [Перейти к медицинским знаниям](health/overview.md)
+  {% include [health](health/overview.md) %}
 
 {% endlist %}
 
