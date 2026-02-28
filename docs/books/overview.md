@@ -7,6 +7,7 @@
 # Книги, которые я прочитал
 
 ## 2026
+1. [Цветы для Элджернона](desc/eldjeron.md)
 1. [Крейцерова соната](desc/Kreutzer_Sonata.md)
 2. [Сторителлинг и ТРИЗ](desc/storytelling-and-triz.md)
 3. [Большая книга про работу](desc/Big_Book_about_job.md)
