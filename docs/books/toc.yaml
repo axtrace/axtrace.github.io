@@ -121,6 +121,8 @@ items:
     href: desc/UML_2_Unified_Process.md
   - name: Уставшие
     href: desc/Tired.md
+  - name: Цветы для Элджернона
+    href: desc/eldjeron.md
   - name: Чек-лист. Система предотвращения ошибок
     href: desc/Checklist_Error_Prevention.md
   - name: Эгоистичный ген
