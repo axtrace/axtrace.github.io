@@ -12,13 +12,13 @@ navigation:
     leftItems:
       - text: 'Книги'
         type: 'link'
-        url: './books/index'
+        url: './books/overview'
       - text: 'Курсы'
         type: 'link'
-        url: './courses/index'
+        url: './courses/overview'
     rightItems:
       - type: controls
-      
+
 items:
   - name: Главная
     href: index.md
