@@ -33,33 +33,33 @@ keywords: "целиакия, диагностика целиакии, глюте
 
 ```mermaid
 flowchart TD
-    A([Начало]) --> B{Принимаем глютен?}
-    B -- ДА --> D[Тесты 1-й линии]
-    B -- НЕТ --> C["Провокационная диета:\n8 недель по 250 г хлеба в день"]
-    C --> D
+    start([Начало]) --> glutenCheck{Принимаем глютен?}
+    glutenCheck -- ДА --> firstLineTests[Тесты 1-й линии]
+    glutenCheck -- НЕТ --> provDiet["Провокационная диета:<br/>8 недель по 250 г хлеба в день"]
+    provDiet --> firstLineTests
 
-    subgraph D[" "]
+    subgraph firstLineTests[" "]
         direction TB
-        D1["1.1 — IgA к тканевой трансглутаминазе (tTG-IgA)"]
-        D2["1.2 — IgA к эндомизию (EMA-IgA)"]
+        tTG["1.1 — IgA к тканевой трансглутаминазе (tTG-IgA)"]
+        EMA["1.2 — IgA к эндомизию (EMA-IgA)"]
     end
 
-    D --> E{Сдаём впервые?}
-    E -- ДА --> F["1.3 — Общий IgA"]
-    E -- НЕТ --> G
-    F --> G
+    firstLineTests --> firstTimeCheck{Сдаём впервые?}
+    firstTimeCheck -- ДА --> totalIgA["1.3 — Общий IgA"]
+    firstTimeCheck -- НЕТ --> tTGthreshold
+    totalIgA --> tTGthreshold
 
-    G{IgA tTG превышен\nв 10+ раз у ребёнка?}
-    G -- ДА --> I["3 — HLA DQ-2/DQ-8"]
-    G -- НЕТ --> H["2 — Биопсия\n12-перстной кишки"]
-    H --> I
+    tTGthreshold{"IgA tTG превышен<br/>в 10+ раз у ребёнка?"}
+    tTGthreshold -- ДА --> hlaTest["3 — HLA DQ-2/DQ-8"]
+    tTGthreshold -- НЕТ --> biopsy["2 — Биопсия<br/>12-перстной кишки"]
+    biopsy --> hlaTest
 
-    I --> J{Все результаты\nположительны?}
-    J -- ДА --> K([ЦЕЛИАКИЯ])
-    J -- НЕТ --> L([НЕТ ЦЕЛИАКИИ])
+    hlaTest --> allPositive{"Все результаты<br/>положительны?"}
+    allPositive -- ДА --> celiac([ЦЕЛИАКИЯ])
+    allPositive -- НЕТ --> noCeliac([НЕТ ЦЕЛИАКИИ])
 
-    style K fill:#d32f2f,color:#fff
-    style L fill:#388e3c,color:#fff
+    style celiac fill:#d32f2f,color:#fff
+    style noCeliac fill:#388e3c,color:#fff
 ```
 
 #### Примечания
