@@ -7,6 +7,7 @@
 # Книги, которые я прочитал
 
 ## 2026
+1. [Перевал в середине пути](desc/pereval-in-the-middle.md)
 1. [Цветы для Элджернона](desc/eldjeron.md)
 1. [Крейцерова соната](desc/Kreutzer_Sonata.md)
 2. [Сторителлинг и ТРИЗ](desc/storytelling-and-triz.md)
