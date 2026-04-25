@@ -101,6 +101,8 @@ items:
     href: desc/pamyat_detstva.md
   - name: Перевал в середине пути
     href: desc/pereval-in-the-middle.md
+  - name: Принцип «черного ящика»
+    href: desc/blackbox-princip.md
   - name: Применение объектного моделирования с использованием UML
     href: desc/UML_Object_Modeling.md
   - name: Путь аналитика

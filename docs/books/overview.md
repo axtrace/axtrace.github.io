@@ -47,6 +47,7 @@
 5. [Искусство быть невидимым](desc/Art_of_Invisibility.md)
 6. [Большая книга манипуляций](desc/Big_Book_of_Manipulations.md)
 7. [Чек-лист. Система предотвращения ошибок](desc/Checklist_Error_Prevention.md)
+8. [Принцип «черного ящика». Мэтью Сайед](desc/blackbox-princip.md)
 
 ## 2021
 1. [Митник. Искусство вторжения](desc/Mitnick_Intrusion.md)
