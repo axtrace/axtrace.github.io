@@ -99,6 +99,10 @@ items:
     href: desc/new_rules_email.md
   - name: Памяти детства
     href: desc/pamyat_detstva.md
+  - name: Перевал в середине пути
+    href: desc/pereval-in-the-middle.md
+  - name: Принцип «черного ящика»
+    href: desc/blackbox-princip.md
   - name: Применение объектного моделирования с использованием UML
     href: desc/UML_Object_Modeling.md
   - name: Путь аналитика
@@ -107,6 +111,8 @@ items:
     href: desc/raduga.md
   - name: Разработка требований к программному обеспечению
     href: desc/wiegers.md
+  - name: Решение проблем по методам спецслужб
+    href: desc/Problem_Solving_Intelligence_Methods.md
   - name: Родители в игре
     href: desc/Parents_in_the_Game.md
   - name: Солнечное вещество
@@ -121,6 +127,8 @@ items:
     href: desc/UML_2_Unified_Process.md
   - name: Уставшие
     href: desc/Tired.md
+  - name: Цветы для Элджернона
+    href: desc/eldjeron.md
   - name: Чек-лист. Система предотвращения ошибок
     href: desc/Checklist_Error_Prevention.md
   - name: Эгоистичный ген
