@@ -13,7 +13,7 @@
     "build": "npm run build:docs"
   },
   "dependencies": {
-    "@diplodoc/cli": "^4.59.13",
+    "@diplodoc/cli": "^4.60.0",
     "@diplodoc/mermaid-extension": "^1.4.2",
     "chokidar": "^3.5.3",
     "express": "^4.18.2",
