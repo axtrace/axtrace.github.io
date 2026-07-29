@@ -13,6 +13,7 @@
 2. [Сторителлинг и ТРИЗ](desc/storytelling-and-triz.md)
 3. [Большая книга про работу](desc/Big_Book_about_job.md)
 4. [Принцип «черного ящика». Мэтью Сайед](desc/blackbox-princip.md)
+5. [Нетворкинг для разведчиков. Андрей Безруков, Елена Вавилова](desc/networking-for-intelligence.md)
 
 ## 2025
 1. [Призрак в сети](desc/Ghost_in_the_Wires.md)
