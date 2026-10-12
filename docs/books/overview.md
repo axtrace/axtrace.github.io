@@ -7,6 +7,7 @@
 # Книги, которые я прочитал
 
 ## 2026
+1. [Мобилизованная нация. Германия 1939–1945](desc/mobilized-nation.md)
 1. [Перевал в середине пути](desc/pereval-in-the-middle.md)
 1. [Цветы для Элджернона](desc/eldjeron.md)
 1. [Крейцерова соната](desc/Kreutzer_Sonata.md)
